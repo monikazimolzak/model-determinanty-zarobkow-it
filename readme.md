@@ -1,0 +1,1 @@
+Model ekonometryczny - determinanty zarobków w ITs
