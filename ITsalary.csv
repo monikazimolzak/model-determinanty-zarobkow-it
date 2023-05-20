@@ -1,0 +1,1069 @@
+﻿Date;Age;Gender;Position ;Experience;Seniority_level;Programming_language;Salary;Vacation_days;Employment_status;Contract_duration;Language;Company_size
+24.11.2020 11:14;26;Male;Software Engineer;5;Senior;TypeScript;80000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:14;26;Male;Backend Developer;7;Senior;Ruby;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:14;29;Male;Software Engineer;12;Lead;Javascript / Typescript;120000;30;Self-employed (freelancer);Temporary contract;English;large
+24.11.2020 11:15;28;Male;Frontend Developer;4;Junior;Javascript;54000;24;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:15;37;Male;Backend Developer;17;Senior;C# .NET;62000;29;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:15;32;Male;DevOps;5;Senior;AWS, GCP, Python,K8s;76000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:16;37;Male;Frontend Developer;6;Middle;Javascript;57000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:16;24;Male;Frontend Developer;5;Senior;Typescript;65000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:17;29;Male;Backend Developer;8;Senior;PHP;56000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:17;35;Male;Software Engineer;15;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:18;32;Female;Data Engineer;2;Junior;Aws Hadoop Postgre Typescript;52500;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:18;34;Male;Software Engineer;14;Senior;Typescript;70000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:18;28;Male;Designer (UI/UX);11;Senior;;75000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:18;31;Male;Backend Developer;5;Senior;Kotlin;75000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:18;29;Male;Backend Developer;7;Middle;Ruby;60350;31;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:19;41;Male;Product Manager;18;Senior;;78000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:20;27;Male;Backend Developer;8;Senior;PHP;60000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:20;34;Male;Mobile Developer;11;Lead;kotlin;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:21;34;Male;DevOps;13;Senior;;103000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:21;34;Male;Software Architect;15;Lead;NodeJS;100000;24;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:22;25;Male;Software Engineer;5;Senior;Javascript;65000;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:23;59;Male;Backend Developer;30;Senior;Java;69000;28;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:23;36;Male;Software Engineer;17;Lead;PHP;70000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:25;38;Male;Team Lead;18;Lead;iOS;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:25;24;Male;DevOps;6;Senior;Kubernetes;75000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:25;37;Male;Test manager;6;Middle;Charles;47400;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:26;40;Male;Product Manager;13;Senior;SQL;70000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:26;29;Male;Software Engineer;6;Lead;Go;85000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:27;31;Male;Backend Developer;5;Middle;java;65000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:27;29;Female;QA Engineer;7;Middle;;45000;26;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:27;39;Male;Software Engineer;8;Senior;Java;80000;29;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:28;27;Male;Software Engineer;8;Middle;Javascript;63000;24;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:28;33;Male;Data Scientist;5;Lead;Python;150000;24;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:28;28;Female;Designer (UI/UX);7;Middle;Figma;45000;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:29;30;Male;Software Engineer;8;Senior;JavaScript;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:29;28;Male;Backend Developer;5;Senior;Kotlin;75000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:29;38;Male;DevOps;10;Senior;Go/Python;70000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:30;29;Male;Frontend Developer;7;Senior;React;72000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:30;49;Male;Software Engineer;15;Senior;Java;67000;29;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:30;32;Male;Frontend Developer;10;Senior;TypeScript;105000;60;Self-employed (freelancer);Temporary contract;English;large
+24.11.2020 11:30;33;Female;Software Engineer;12;Senior;Đˇ#;88000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:30;30;Male;Software Engineer;6;Senior;Java;74000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:31;48;Male;Software Engineer;25;Senior;Java;75000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:31;28;Female;Designer (UI/UX);5;Senior;;60000;20;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:31;32;Male;Backend Developer;3;Middle;Java;77000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:31;38;Female;Backend Developer;12;Senior;;70000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:31;31;Male;Software Engineer;7;Lead;Python;76000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:32;35;Male;Backend Developer;10;Senior;Ruby;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:32;28;Female;Designer (UI/UX);7;Middle;Figma;45000;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:32;29;Female;QA Engineer;8;Senior;;60000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:32;32;Male;Backend Developer;8;Senior;PHP;65000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:32;44;Male;Backend Developer;12;Senior;Java;68000;26;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:33;35;Male;Software Engineer;11;Senior;Php;65000;29;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:33;29;Male;Software Engineer;5;Senior;Go;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:33;66;Male;Software Engineer;40;Lead;ruby on rails;70000;30;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 11:35;39;Female;Software Engineer;10;Senior;Java;70500;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:36;28;Male;Backend Developer;5;Senior;Kotlin;72000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:37;34;Male;Frontend Developer;5;Senior;JavaScript/ES6;73500;27;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:37;34;Male;Software Engineer;13;Lead;.NET;72000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:38;32;Male;Frontend Developer;7;Senior;Javascript;62000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:38;38;Male;Hardware Engineer;15;Lead;Hardware;83000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:38;32;Male;Data Scientist;10;Head;;110000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:38;45;Male;Software Engineer;26;Senior;C#;93000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:40;28;Male;Software Engineer;3;Middle;Js;55000;22;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:40;29;Male;Mobile Developer;6;Middle;android;53000;26;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:40;36;Male;Backend Developer;15;Senior;java;55000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:40;39;Male;Software Engineer;10;Senior;C#;75000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:40;29;Male;Software Engineer;7;Senior;JavaScript ;80000;24;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:42;31;Male;Engineering Manager;11;Lead;Java;80000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:43;30;Male;Backend Developer;5;Middle;Java;55000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:43;30;Male;DevOps;8;Middle;;70200;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:43;33;Male;Software Engineer;4;Middle;Java;50000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:44;27;Male;Software Engineer;5;Senior;Scala;78000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:44;26;Female;Data Scientist;6;Middle;python;60000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:44;26;Male;Software Engineer;8;Lead;Go;85000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:44;31;Female;Analytics engineer;6;Middle;SQL;60000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:44;30;Male;Software Engineer;10;Senior;Scala;72000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:44;38;Male;Localization producer;17;Middle;;68500;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:44;43;Male;Mobile Developer;5;Senior;Kotlin;72000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:45;33;Male;Software Engineer;5;Middle;python;65000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:45;31;Male;Software Engineer;9;Senior;C#, .net core;60000;25;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:46;32;Female;QA Engineer;10;Senior;Java;61000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:46;24;Male;Data Scientist;4;Senior;Python;73000;24;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:46;29;Male;DevOps;7;Lead;Kubernetes;78000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:46;29;Male;Data Scientist;4;Senior;Python;81000;29;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:46;30;Male;Hardware Engineer;5;Senior;VHDL;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:48;35;Female;Reporting Engineer;3;Middle;Power BI;55000;31;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:48;27;Female;Account Managet;6;Senior;;50000;28;Full-time employee;Temporary contract;English;large
+24.11.2020 11:49;33;Male;QA Engineer;5;Senior;Java;60000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:50;28;Male;Software Engineer;8;Lead;PHP ;80000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:50;31;Female;agile master ;14;Middle;none;80000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 11:50;32;Male;Software Engineer;7;Senior;Android;60000;38;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 11:50;30;Male;Backend Developer;8;Senior;Scala;80000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:50;26;Male;Backend Developer;7;Senior;Java;78000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:51;31;Male;Software Engineer;10;Senior;Java;68000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:52;38;Female;QA Engineer;6;Middle;Java;62000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:53;37;Male;Software Engineer;10;Senior;PHP;55000;26;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:54;25;Male;Software Engineer;3;Middle;Java;62000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:54;36;Male;Frontend Developer;12;Senior;JavaScript;72000;26;Full-time employee;Unlimited contract;English;micro
+24.11.2020 11:54;27;Male;QA Engineer;5;Senior;Swift;58000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:55;35;Male;ML Engineer;12;Senior;ML;120000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:55;37;Male;Software Engineer;15;Senior;php;75000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 11:55;26;Male;Data Scientist;3;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:55;33;Male;Solution Architect;6;Middle;Python;85000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:56;34;Male;Frontend Developer;7;Senior;JavaScript;65000;25;Full-time employee;Unlimited contract;English;micro
+24.11.2020 11:56;33;Male;Backend Developer;12;Lead;PHP;65000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:56;29;Male;Backend Developer;8;Senior;Scala;72000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:56;24;Male;Software Engineer;5;Middle;C++;79000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:57;28;Female;QA Engineer;6;Middle;;65000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:57;30;Female;Software Engineer;8;Senior;Scala, React.js;75000;35;Full-time employee;Unlimited contract;English;large
+24.11.2020 11:57;28;Male;BI Consultant;8;Senior;SQL;60000;28;Full-time employee;Unlimited contract;English;micro
+24.11.2020 11:58;31;Male;Backend Developer;11;Senior;PHP;80000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:59;28;Male;Mobile Developer;5;Senior;iOS;57000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 11:59;28;Male;Software Engineer;6;Senior;Java;65000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 11:59;26;Female;Data Scientist;3;Junior;Ml/Python;70000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:00;33;Male;Mobile Developer;6;Middle;Swift;63000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:00;41;Male;Product Manager;18;Middle;;72000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:00;31;Male;Software Engineer;9;Senior;C#, .net core;60000;25;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:01;30;Male;Frontend Developer;6;Senior;Javascript;75000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:01;31;Male;Frontend Developer;8;Senior;JavaScript/TypeScript;70000;24;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:02;37;Male;Backend Developer;12;Senior;php;62000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:04;34;Male;;17;Lead;Java;120000;32;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 12:06;25;Male;Backend Developer;5;Senior;Java;75000;24;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:06;36;Male;Backend Developer;19;Senior;PHP;69000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:06;40;Male;Frontend Developer;7;Middle;Javascript;54000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:07;37;Male;Product Manager;6;Middle;;62000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 12:07;35;Male;Software Engineer;13;Senior;Java;80000;40;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:07;42;Male;Software Engineer;20;Senior;Ruby on Rails;80000;27;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 12:07;34;Male;QA Engineer;10;Senior;Java;75000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:07;30;Male;Backend Developer;6;Senior;Ruby;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:08;35;Male;Software Engineer;12;Senior;C#;70000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:09;34;Male;Cloud Architect;10;Senior;Azure, SAP;120000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:09;35;Male;Designer (UI/UX);10;Senior;;70000;25;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:09;35;Male;System Administrator;14;Middle;;44000;27;Full-time employee;Temporary contract;English;large
+24.11.2020 12:09;28;Male;Software Engineer;7;Senior;Scala;80000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:10;35;Male;Frontend Developer;4;Middle;JavaScript;50000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:10;31;Female;QA Engineer;7;Senior;Java;68000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:11;35;Male;Software Engineer;12;Senior;java;66000;25;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 12:12;28;Male;Product Manager;3;Middle;;51000;27;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:12;25;Male;Backend Developer;4;Middle;Python;60000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:13;42;Female;QA Engineer;20;Middle;python;55000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:14;30;Male;Product Manager;7;Head;;150000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:14;40;Female;Software Engineer;20;Middle;Java;54000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 12:14;36;Female;Project Manager;14;Middle;;62000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:14;37;Male;Software Engineer;8;Junior;Java;60000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:15;33;Male;Software Engineer;10;Senior;Java;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:16;38;Male;Software Engineer;11;Senior;PHP;55000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:16;27;Male;Frontend Developer;4;Senior;Frontend;60000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:17;33;Male;Software Engineer;7;Senior;Java, JavaScript;62000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:17;34;Male;Data Scientist;12;Senior;;77500;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:17;36;Female;Backend Developer;5;Middle;PHP;60000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:17;42;Male;DevOps;22;Lead;yaml;70000;24;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:18;32;Male;Network Engineer ;10;Senior;Python ;68500;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:21;31;Male;Frontend Developer;10;Senior;Javascript;71060;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:21;33;Female;QA Engineer;6;Middle;Java;60000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:23;28;Male;Backend Developer;6;Senior;Java;70000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:23;46;Male;Agile Coach;4;Senior;;82000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:26;31;Male;Software Engineer;9;Senior;Python;90000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:26;28;Male;Mobile Developer;5;Lead;Swift;70800;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:27;29;Male;Software Engineer;8;Middle;PHP;55000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:27;40;Male;Mobile Developer;25;Lead;Swift;85000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:28;46;Male;QA Engineer;13;Senior;Java;70000;28;Full-time employee;Unlimited contract;German;large
+24.11.2020 12:28;33;Male;Backend Developer;5;Middle;Java;66000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:28;33;Male;ML Engineer;10;Middle;Python;62000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:28;34;Male;Software Engineer;14;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:28;36;Male;Backend Developer;18;Senior;PHP;65000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:29;33;Female;QA Engineer;8;Senior;-;50000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:30;32;Male;Software Engineer;11;Lead;Android;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:35;46;Male;Software Engineer;14;Senior;JavaScript;80000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:36;30;Male;Mobile Developer;8;Senior;Kotlin;66000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:40;31;Male;Data Scientist;10;Lead;Python ;115000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:41;46;Male;Scrum Master;12;Senior;Agile;85000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 12:44;26;Male;Mobile Developer;6;Senior;Kotlin;70000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 12:44;31;Male;Firmware Engineer;10;Senior;C;45000;30;Full-time employee;Temporary contract;English;small
+24.11.2020 12:47;31;Male;Frontend Developer;12;Lead;TypeScript, JavaScript;85000;29;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:48;30;Female;QA Engineer;5;Middle;Python ;50000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 12:50;35;Male;Software Engineer;13;Lead;Pegasystems platform ;140000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 12:51;33;Male;Software Engineer;12;Senior;Javascript;120000;28;Self-employed (freelancer);Temporary contract;English;large
+24.11.2020 12:54;36;Male;Solutions Architect;12;Lead;Cloud;105000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:55;40;Male;Software Engineer;13;Senior;;77000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 12:55;35;Female;Software Engineer;15;Senior;C#;76000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 12:58;32;Male;Fullstack Developer;9;Senior;Java;70000;26;Full-time employee;Unlimited contract;English;small
+24.11.2020 12:59;29;Male;Software Engineer;8;Senior;Go;70000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:00;30;Male;Software Engineer;9;Middle;Java;63000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 13:01;35;Male;ML Engineer;10;Lead;Scala;96000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:02;29;Male;Software Engineer;7;Senior;Python;64000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:05;32;Female;Product Manager;10;Senior;;60000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 13:05;30;Female;Mobile Developer;10;Senior;Swift;65000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:05;25;Male;Software Engineer;6;Middle;Java;61500;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:07;43;Male;Software Engineer;20;Senior;Python;79000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:07;38;Male;Software Engineer;16;Senior;Python;65000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:09;26;Male;Software Engineer;5;Middle;Scala;63000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:09;25;Female;Product Manager;3;Middle;--;62000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:11;34;Male;Software Engineer;12;Lead;python;95000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:14;34;Male;Designer (UI/UX);11;Senior;;60000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:14;27;Male;Backend Developer;5;Middle;Java;65000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:16;30;Male;Mobile Developer;3;Senior;Swift;58000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:21;34;Male;Data Scientist;5;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:23;36;Female;QA Engineer;14;Lead;Java;69000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:25;27;Male;Backend Developer;5;Middle;Java;65000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:25;45;Male;Mobile Developer;10;Lead;SWIFT;77000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:29;35;Male;Backend Developer;6;Senior;Java, angular, Aws;74000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 13:32;36;Male;Engineering Manager;7;Lead;Swift, objective-c;80000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:33;32;Male;QA Engineer;9;Senior;Java;60000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 13:35;33;Male;DevOps;14;Senior;Golang;70000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:36;30;Male;Backend Developer;10;Middle;PHP;56000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:37;35;Male;Software Engineer;15;Senior;go;70000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 13:40;25;Male;Backend Developer;4;Middle;Java;60000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 13:40;29;Male;Mobile Developer;8;Senior;Kotlin;65000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 13:41;32;Male;DevOps Manager;10;Lead;DevOps;100000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:42;32;Male;Software Engineer;11;Senior;.net;60000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:50;24;Male;Software Engineer;3;Middle;Node.js;58000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:51;24;Female;Software Engineer;2;Middle;iOS;55200;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 13:53;56;Male;Software Engineer;9;Senior;R;75000;30;Full-time employee;Temporary contract;German;extra-large
+24.11.2020 13:55;25;Male;ML Engineer;1;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:55;28;Male;Software Engineer;8;Senior;C++;67200;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 13:58;30;Male;Software Engineer;7;Senior;C++;100000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:00;26;Female;Software Engineer;6;Senior;.NET;65000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:01;31;Female;Data Scientist;4;Middle;R;65000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:02;31;Male;Software Engineer;9;Middle;C++;92500;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:03;29;Female;QA Engineer;6;Middle;JS;54000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:03;33;Male;Backend Developer;15;Lead;Scala;100000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 14:06;30;Female;QA Engineer;6;Senior;Bash;70000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:07;34;Male;Software Engineer;14;Senior;C#;72000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:07;37;Male;Team Lead;12;Head;Python;90000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 14:13;28;Male;Network Administrator;9;Senior;Network;61200;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:14;35;Male;Security Manager;14;Senior;;80000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:17;31;Male;QA Engineer;10;Senior;nothing;60000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:21;29;Male;Consultant Data Analytics;1;Junior;Python;45000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:24;39;Male;BI IT Consultant;5;Middle;Qlik BI Tool, SQL;56000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:26;31;Female;Graphic Designer;11;Middle;;32000;27;Full-time employee;Temporary contract;English;large
+24.11.2020 14:28;29;Male;Backend Developer;8;Senior;Java;95000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:29;36;Male;Frontend Developer;1;Junior;Javascript;37500;28;Full-time employee;Temporary contract;German;micro
+24.11.2020 14:30;33;Male;iOS Developer;10;Middle;Swift;67000;29;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:34;37;Male;Cloud Engineer;15;Senior;Cloud;72000;36;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:34;34;Male;Product Manager;7;Middle;;72000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:34;30;Male;Software Engineer;4;Junior;PHP;42000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:37;34;Male;Solutions architect;14;Head;Blockchain;95000;24;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:37;33;Male;Backend Developer;12;Senior;PHP;67000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:38;43;Male;Backend Developer;5;Middle;Java;64000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:40;32;Female;Stuttgart;2;Junior;Java;52000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:42;34;Male;Mobile Developer;14;Senior;Android;60000;23;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:47;29;Male;Backend Developer;9;Senior;Java;85000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:49;37;Male;Frontend Developer;14;Senior;Angular;84000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 14:49;41;Male;Senior Program Manager;19;Senior;Autonomous Driving;123600;33;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:52;33;Male;Software Engineer;6;Middle;c#;49000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 14:54;33;Female;QA Engineer;9;Middle;Java;57000;21;Full-time employee;Unlimited contract;English;large
+24.11.2020 14:56;40;Male;QA Engineer;18;Lead;Java;78000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 14:58;38;Male;Backend Developer;12;Senior;Java;70000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 15:03;29;Male;Frontend Developer;5;Middle;Js, TypeScript, Angular;57000;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:04;27;Male;Backend Developer;7;Senior;go;72000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 15:05;39;Male;Product Manager;10;Lead;;120000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 15:09;38;Male;ML Engineer;10;Lead;Python;92000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 15:10;42;Male;ML Engineer;20;Senior;Python;80000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 15:16;45;Female;DB developer/Data analyst;6;Senior;T-SQL;55000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 15:17;38;Male;Software Engineer;12;Senior;Java;73000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 15:17;29;Male;QA Engineer;9;Senior;;62000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:21;30;Male;Software Engineer;11;Senior;Kotlin;55000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 15:22;32;Male;Software Engineer;9;Lead;JavaScript;90000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:27;41;Male;Backend Developer;21;Senior;Java;80000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:28;34;Male;Security Engineer;10;Senior;python;85000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 15:31;45;Male;Software Engineer;25;Lead;c++;75000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 15:32;34;Male;DevOps;6;Middle;Java, terraform;62000;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 15:37;25;Male;Backend Developer;7;Senior;PHP;60000;26;Full-time employee;Unlimited contract;English;small
+24.11.2020 15:38;32;Male;Software Engineer;12;Senior;iOS;66800;25;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 15:39;65;Male;Software Engineer;25;Senior;Pascal, VB.NET, C#;55000;30;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 15:41;33;Male;Business Analyst;10;Senior;Java;70000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:41;34;Male;ML Engineer;12;Senior;Python;90000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 15:42;28;Male;Backend Developer;7;Senior;PHP;70000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:56;39;Male;DBA;17;Senior;Oracle;64000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 15:59;30;Male;Backend Developer;7;Senior;Ruby;72000;25;Full-time employee;Unlimited contract;English;small
+24.11.2020 15:59;34;Male;DevOps;12;Senior;Java;70000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:02;35;Male;Support Engineer;10;Senior;PHP;63500;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:03;35;Female;Frontend Developer;12;Middle;Javascript ;70000;29;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:05;34;Male;Frontend Developer;10;Senior;Angular, React;68000;40;Full-time employee;Unlimited contract;English;small
+24.11.2020 16:06;34;Male;Software Engineer;12;Lead;.net;78000;36;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 16:14;35;Male;Software Engineer;8;Senior;Elixir;75000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:15;38;Male;Software Engineer;13;Lead;Java;89570;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 16:16;34;Female;Software Engineer;9;Senior;Kotlin;78000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:20;31;Male;Mobile Developer;7;Senior;iOS;80000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 16:26;34;Male;Backend Developer;15;Senior;Elixir;70000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 16:34;29;Female;Software Engineer;5;Middle;NodeJS, Typescript, AWS;67000;31;Full-time employee;Unlimited contract;English;large
+24.11.2020 16:35;37;Male;Software Engineer;15;Senior;Scala;85000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 16:42;44;Male;Software Engineer;22;Senior;Erlang;76000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 16:56;30;Male;Frontend Developer;9;Middle;TypeScript;66000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:01;26;Male;Consultant;4;Middle;JavaScript;65000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 17:04;46;Male;Software Engineer;14;Senior;JavaScript;80000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 17:08;27;Male;Software Engineer;4;Junior;C#;46000;30;Full-time employee;Unlimited contract;German;micro
+24.11.2020 17:12;38;Male;Software Engineer;15;Senior;C#;56400;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 17:21;32;Male;Backend Developer;11;Senior;PHP;81200;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 17:24;26;Male;Backend Developer;7;Senior;Java;65000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:27;29;Male;Software Engineer;12;Senior;Go;75000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:28;32;Male;Testautomation;8;Senior;Java, JS;60000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 17:29;29;Male;Mobile Developer;5;Middle;Objective-C;55000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 17:29;33;Male;Software Engineer;10;Senior;Ruby;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:30;32;Male;QA Engineer;9;Senior;QA;76000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:31;34;Male;Software Engineer;10;Senior;C++;76000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:35;33;Male;Software Engineer;10;Senior;C#;78000;30;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 17:37;32;Male;Backend Developer;4;Senior;Ruby;65000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 17:38;47;Male;Software Engineer;22;Senior;C++/C#;46000;30;Full-time employee;Unlimited contract;English;micro
+24.11.2020 17:38;29;Male;Backend Developer;8;Middle;Go;65000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:39;28;Male;Software Engineer;5;Senior;C++;67000;20;Self-employed (freelancer);Unlimited contract;English;micro
+24.11.2020 17:40;25;Male;Data Scientist;2;Middle;Python;48000;28;Full-time employee;Unlimited contract;German;small
+24.11.2020 17:40;32;Male;SAP Developer;9;Senior;ABAP;70800;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 17:43;45;Male;Frontend Developer;3;Senior;Javascript / Typescript;70000;25;Full-time employee;Unlimited contract;Russian;small
+24.11.2020 17:45;26;Male;Software Engineer;3;Middle;Python ;48000;27;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 17:45;29;Male;Mobile Developer;8;Senior;Java/Kotlin;65400;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 17:47;40;Male;Backend Developer;18;Senior;php;60000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 17:47;27;Male;Software Engineer;5;Senior;Typescript / Angular;71000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 17:51;27;Male;Software Engineer;5;Senior;Javascript;65000;22;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 17:53;38;Male;Systemadministrator;20;Senior;;44000;25;Full-time employee;Unlimited contract;German;small
+24.11.2020 17:57;30;Male;DevOps;9;Lead;Kubernetes;90000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 17:57;30;Male;Software Engineer;6;Middle;.NET;60000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 18:01;29;Male;SW Architect;8;Senior;C++;73000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:06;37;Male;Software Engineer;15;Senior;ABAP;67500;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:09;28;Male;SRE;6;Middle;Kubernetes;66000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:10;28;Female;Software Engineer;8;Lead;Javascript;80000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 18:12;28;Male;Backend Developer;5;Middle;Java;55000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 18:13;33;Male;Software Engineer;13;Senior;Ruby;75000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:19;38;Male;QA Engineer;7;Middle;;54500;30;Full-time employee;Unlimited contract;German;small
+24.11.2020 18:22;40;Male;Software Engineer;22;Senior;Java;72000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 18:25;28;Male;Fullstack engineer, Đ˝Ń Đ¸Đ»Đ¸ Software engineer;9;Senior;React/Typescript;60000;28;Full-time employee;Unlimited contract;English;micro
+24.11.2020 18:27;29;Male;Backend Developer;11;Senior;Python;85000;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 18:32;24;Male;HiWi;3;Junior;Python;10164;14;Part-time employee;Temporary contract;English;small
+24.11.2020 18:37;44;Male;Software Engineer;28;Senior;C#;78500;30;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 18:39;35;Male;Product Manager;5;Senior;;56000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 18:39;41;Female;Data Engineer;12;Senior;;68000;30;Full-time employee;Unlimited contract;German;large
+24.11.2020 18:40;32;Male;Software Engineer;12;Senior;Java;83000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:44;28;Female;Software Engineer;4;Junior;;53000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:49;33;Male;Software Engineer;10;Middle;iOS;65000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:49;46;Male;Software Engineer;10;Senior;Python ;68500;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 18:50;27;Male;Frontend Developer;8;Middle;Angular;45000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 18:51;32;Male;Backend Developer;5;Middle;Ruby;72000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 18:52;34;Male;Software Engineer;15;Lead;Java;80000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:53;33;Male;Software Engineer;10;Senior;Salesforce ;68000;25;Full-time employee;Temporary contract;English;small
+24.11.2020 18:53;26;Male;Software Engineer;4;Middle;javascript;24000;20;Full-time employee;Unlimited contract;English;large
+24.11.2020 18:54;41;Male;Software Engineer;19;Lead;Python;95500;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 18:54;35;Male;Software Engineer;14;Senior;C++;72000;35;Full-time employee;Unlimited contract;English;large
+24.11.2020 18:58;26;Male;Software Engineer;7;Senior;TypeScript;72000;27;Full-time employee;Unlimited contract;German;large
+24.11.2020 18:59;24;Male;Software Engineer;3;Middle;Java/C++;77600;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:07;35;Male;Software Engineer;13;Lead;Scala / Python;95000;25;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 19:07;31;Male;Software Engineer;7;Senior;C++;50400;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:09;25;Male;Backend Developer;5;Middle;Java;80000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:12;30;Male;Backend Developer;2;Middle;Python;13000;28;Full-time employee;Unlimited contract;Russian;medium-size
+24.11.2020 19:14;37;Male;Project manager;20;Middle;;130000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:15;30;Male;Software Engineer;5;Middle;C;14712;30;Full-time employee;Unlimited contract;Russian;large
+24.11.2020 19:19;35;Male;QA Engineer;11;Senior;Java;74400;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 19:24;37;Male;Software Engineer;15;Senior;Java;70000;25;Full-time employee;Temporary contract;English;small
+24.11.2020 19:30;36;Male;Backend Developer;10;Senior;Java/Scala;82000;30;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 19:31;32;Female;Data Scientist;4;Senior;Python;85000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:40;38;Male;Security Engineer;5;Lead;;80000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 19:41;23;Male;Software Engineer;4;Middle;Javascript;70500;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 19:42;39;Male;Software Engineer;11;Lead;PHP;75000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 19:47;27;Female;Data Scientist;3;Middle;Python;58000;24;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 19:48;50;Male;Software Engineer;29;Lead;C++;28800;30;Full-time employee;Unlimited contract;German;small
+24.11.2020 20:00;40;Male;Architect;10;Middle;;89000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:01;35;Male;Backend Developer;11;Senior;python;66000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:02;29;Male;Backend Developer;10;Senior;Ruby;80000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:02;30;Male;Mobile Developer;8;Lead;Swift;75000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 20:04;24;Male;Frontend Developer;3;Middle;JavaScript;44000;26;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 20:04;28;Male;Software Engineer;8;Senior;Java;75000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:14;28;Male;Backend Developer;9;Senior;PHP;60000;25;Full-time employee;Unlimited contract;English;small
+24.11.2020 20:18;37;Male;Software Engineer;8;Senior;Python ;76900;26;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:23;33;Male;Technical Lead;10;Lead;;85000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:25;30;Male;Frontend Developer;4;Middle;JavaScript/Typescript;55000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:26;31;Male;Software Engineer;4;Lead;Java;95000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:26;28;Female;Software Engineer;3;Middle;Javascript;60000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:28;31;Female;Software Engineer;2;Middle;Java;58000;28;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 20:28;34;Male;Mobile Developer;9;Senior;Android;72000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:29;24;Male;Backend Developer;4;Middle;PHP;46000;28;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 20:29;39;Male;DevOps;15;Senior;Python;70000;21;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:30;42;Male;Backend Developer;20;Senior;.NET;75000;25;Full-time employee;Unlimited contract;English;large
+24.11.2020 20:37;26;Male;Frontend Developer;8;Senior;TypeScript, React;105000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:38;31;Female;Software Engineer;2;Junior;;50000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:39;32;Female;Mobile Developer;7;Senior;Kotlin;63000;26;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 20:41;30;Female;QA Engineer;4;Middle;;52000;20;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 20:41;23;Male;Mobile Developer;3;Lead;Swift;65000;25;Full-time employee;Unlimited contract;English;medium-size
+24.11.2020 20:43;27;Female;Backend Developer;3;Middle;;60000;24;Full-time employee;Unlimited contract;English;small
+24.11.2020 21:04;27;Male;ML Engineer;4;Middle;python;62000;25;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:05;27;Male;Tech Lead / Full-Stack;5;Lead;Python / JavaScript (React);90000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 21:07;29;Male;Frontend Developer;8;Senior;JavaScript / typescript;69000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:10;32;Male;Software Engineer;10;Senior;Java;88000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:14;31;Male;DevOps;11;Senior;Terraform;81000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 21:21;26;Male;Marketing Analyst;7;Middle;SQL;60000;27;Full-time employee;Unlimited contract;English;large
+24.11.2020 21:28;29;Male;Software Engineer;5;Middle;PHP;56000;30;Full-time employee;Unlimited contract;English;small
+24.11.2020 21:34;30;Male;Frontend Developer;7;Senior;JavaScript;55000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 21:34;38;Male;Mobile Developer;10;Senior;Swift;70000;24;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:37;25;Male;Solutions Architect;6;Middle;Apache Spark;100000;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:38;24;Male;Backend Developer;3;Junior;C#;48000;28;Full-time employee;Temporary contract;English;extra-large
+24.11.2020 21:39;24;Male;Software Engineer;3;Junior;Java;30000;28;Full-time employee;Unlimited contract;English;small
+24.11.2020 21:47;34;Female;QA Engineer;6;Senior;Ruby;67500;30;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 21:47;30;Male;Data Scientist;2;Middle;python;48000;25;Full-time employee;Temporary contract;English;extra-large
+24.11.2020 21:52;27;Female;Frontend Developer;2;Middle;JavaScript;64000;28;Full-time employee;Unlimited contract;English;large
+24.11.2020 22:04;46;Male;Software Engineer;23;Senior;C#;90000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 22:10;40;Female;Fullstack Developer;8;Senior;C#;57000;26;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 22:17;23;Male;Frontend Developer;5;Senior;Javascript;45600;30;Full-time employee;Unlimited contract;English;micro
+24.11.2020 22:28;30;Male;Backend Developer;2;Junior;Elixir;50000;30;Self-employed (freelancer);Unlimited contract;English;large
+24.11.2020 22:34;40;Male;SAP BW Senior Consultant ;11;Senior;SAP BW / ABAP;75000;30;Full-time employee;Unlimited contract;German;extra-large
+24.11.2020 22:41;38;Male;Software Engineer;10;Lead;Go, PHP, SQL;62000;30;Full-time employee;Unlimited contract;German;medium-size
+24.11.2020 22:46;28;Male;Mobile Developer;5;Senior;Swift;45000;20;Full-time employee;Unlimited contract;English;small
+24.11.2020 22:52;38;Male;Software Engineer;16;Senior;ABAP;83000;27;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 23:09;32;Male;Software Engineer;12;Senior;Java;66300;28;Full-time employee;Unlimited contract;German;large
+24.11.2020 23:20;33;Female;Software Engineer;6;Middle;java;65000;28;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 23:38;34;Male;Software Engineer;13;Lead;Kotlin ;85000;32;Full-time employee;Unlimited contract;English;extra-large
+24.11.2020 23:40;35;Female;QA Manager ;9;Middle;Jira;60000;30;Full-time employee;Unlimited contract;English;large
+24.11.2020 23:42;37;Male;Software Engineer;9;Senior;Qml;60000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 00:01;36;Male;IT Spezialist;15;Senior;AWS;79300;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 00:09;27;Male;Software Engineer;5;Middle;C#/.NET;48000;28;Full-time employee;Unlimited contract;English;micro
+25.11.2020 00:41;28;Male;Software Engineer;6;Middle;PHP;60000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 01:12;23;Male;Software Engineer;4;Middle;PHP;34000;28;Full-time employee;Temporary contract;English;micro
+25.11.2020 01:29;31;Female;QA Engineer;11;Middle;JS;57000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 05:58;34;Male;Software Engineer;12;Middle;PHP;54000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 06:05;34;Male;Software Engineer;10;Senior;.Net;60000;28;Full-time employee;Unlimited contract;English;small
+25.11.2020 06:26;29;Male;Mobile Developer;7;Senior;Android;65000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 07:05;38;Male;Software Engineer;15;Senior;Javascript;80000;30;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 07:27;25;Female;Frontend Developer;4;Middle;Javascript / Typescript;60000;23;Full-time employee;Unlimited contract;English;small
+25.11.2020 07:46;23;Male;Software Engineer;3;Middle;JavaScript;60000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 07:56;30;Male;Software Engineer;10;Senior;.NET;75000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 08:05;32;Male;Engineering Manager;10;Middle;JavaScript;85000;24;Full-time employee;Unlimited contract;English;large
+25.11.2020 08:08;28;Male;Frontend Developer;2;Junior;JavaScript;47000;26;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 08:12;31;Male;ML Engineer;4;Junior;python;62000;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 08:17;29;Male;Designer (UI/UX);6;Middle;;56000;28;Full-time employee;Unlimited contract;English;small
+25.11.2020 08:39;42;Male;Software Engineer;17;Senior;Go;75000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 08:43;40;Male;Product Manager;13;Head;;90000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 08:47;27;Male;Software Engineer;6;Middle;Java;82000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 08:47;29;Male;Software Engineer;8;Middle;PHP;75000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 08:47;37;Male;Software Architect;18;Head;Go;156000;0;Self-employed (freelancer);Unlimited contract;English;small
+25.11.2020 08:54;23;Male;Software Engineer;5;Middle;Python;53000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 08:55;35;Male;Backend Developer;14;Senior;Java;77000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 09:00;39;Male;Manager;11;Head;Python ;180000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 09:03;33;Male;Software Engineer;10;Middle;C#;55000;27;Full-time employee;Unlimited contract;German;large
+25.11.2020 09:04;31;Male;Software Engineer;10;Lead;Python;82000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 09:05;38;Male;Data Scientist;15;Head;Python;100000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 09:05;31;Male;ML Engineer;3;Lead;Python ;70000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 09:06;26;Female;Data Scientist;2;Junior;Python;47000;25;Full-time employee;Unlimited contract;English;small
+25.11.2020 09:08;30;Male;Software Engineer;10;Senior;Java;70000;27;Full-time employee;Unlimited contract;English;small
+25.11.2020 09:14;33;Male;Software Engineer;9;Lead;Java;100000;29;Full-time employee;Unlimited contract;German;medium-size
+25.11.2020 09:15;33;Male;Software Engineer;11;Senior;Python;65000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 09:22;31;Male;Mobile Developer;10;Senior;Swift;80000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 09:24;33;Male;Data Scientist;2;Middle;Python;54000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 09:29;43;Male;Consultant ;21;Senior;Java;72000;28;Full-time employee;Unlimited contract;German;large
+25.11.2020 09:29;36;Male;Frontend Developer;14;Senior;Javascript;78000;24;Full-time employee;Unlimited contract;English;small
+25.11.2020 09:35;33;Male;Software Engineer;9;Senior;Javascript / Typescript;60000;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 09:40;36;Female;DevOps;1;Middle;java;60000;26;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 09:44;27;Female;Mobile Developer;1;Junior;Kotlin, Java;50000;27;Full-time employee;Unlimited contract;English;small
+25.11.2020 09:45;33;Male;Software Engineer;12;Lead;Go;120000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 09:49;33;Male;Data Analyst;2;Middle;SQL;62000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 09:56;40;Male;QA Engineer;11;Senior;Python;60000;28;Full-time employee;Unlimited contract;German;large
+25.11.2020 10:02;24;Female;Software Engineer;2;Middle;;58000;30;Full-time employee;Unlimited contract;German;small
+25.11.2020 10:15;40;Male;Product Manager;17;Lead;Linux Kernel;81000;30;Full-time employee;Unlimited contract;German;small
+25.11.2020 10:26;37;Male;DevOps;13;Lead;;70000;25;Full-time employee;Unlimited contract;English;small
+25.11.2020 10:31;35;Male;Frontend Developer;6;Senior;Javascript;80000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 10:33;39;Male;Data Scientist;7;Senior;several;70000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 10:35;25;Male;Software Engineer;6;Middle;Java;63700;29;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 10:37;27;Male;Software Engineer;4;Middle;C#;65000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 10:42;30;Male;Product Manager;3;Junior;;30000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 10:44;28;Male;Data Scientist;4;Middle;Python ;70000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 10:50;36;Female;Frontend Developer;10;Middle;javascript;48000;30;Part-time employee;Unlimited contract;German;large
+25.11.2020 10:53;29;Female;Software Developer in Test;9;Lead;Java;66000;25;Full-time employee;Unlimited contract;English;large
+25.11.2020 10:55;34;Male;Mobile Developer;10;Senior;Android/Kotlin;70000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 10:56;28;Female;Data Scientist;4;Middle;Python;65000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 10:58;39;Male;Software Architect;20;Lead;embedded;122000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:07;32;Male;Software Engineer;6;Middle;PHP;58000;30;Full-time employee;Temporary contract;German;extra-large
+25.11.2020 11:08;37;Male;QA Engineer;6;Middle;Java/Groovy;69200;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:11;32;Male;Software Engineer;7;Senior;Python ;72000;29;Full-time employee;Unlimited contract;English;small
+25.11.2020 11:15;35;Male;Software Engineer;16;Lead;PHP;84000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:18;26;Male;Data Scientist;5;Middle;Python ;59000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:18;32;Male;Frontend Developer;7;Middle;Typescript;68000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:21;36;Male;Software Engineer;10;Senior;typescript;88000;28;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 11:22;26;Male;Software Engineer;5;Middle;Swift;71000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:24;28;Male;Data Engineer;5;Middle;Scala;65000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:29;36;Male;Data Scientist;5;Middle;python;50000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:30;40;Male;Software Engineer;18;Senior;java;160000;15;Self-employed (freelancer);Temporary contract;German;micro
+25.11.2020 11:37;29;Male;Data Scientist;4;Middle;Python + SQL;37500;16;Full-time employee;Unlimited contract;Italian;large
+25.11.2020 11:39;32;Male;Software Engineer;10;Middle;javascript;65000;24;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 11:41;28;Male;Software Engineer;5;Middle;Java;56000;25;Full-time employee;Unlimited contract;English;small
+25.11.2020 11:42;27;Male;DevOps;7;Senior;Go;80000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:47;33;Male;Software Engineer;16;Senior;Java;83000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:48;34;Male;QA Engineer;5;Senior;Java;76500;3;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:49;31;Male;Frontend Developer;8;Senior;Typescript;60000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 11:51;31;Male;Frontend Developer;8;Senior;Typescript, Web apps;79000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:54;31;Male;Data Scientist;5;Middle;Python;90000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 11:54;27;Male;ML Engineer;6;Middle;Python;82000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 11:57;29;Male;Backend Developer;10;Senior;Scala;78000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 12:01;39;Male;Software Engineer;6;Senior;PHP;60000;25;Full-time employee;Unlimited contract;English;large
+25.11.2020 12:04;35;Male;Frontend Developer;10;Senior;JavaScript;75000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:05;38;Male;Tech Leader;24;Head;Java;130000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 12:15;32;Male;QA Engineer;7;Senior;Swift;65000;24;Full-time employee;Temporary contract;English;medium-size
+25.11.2020 12:20;35;Male;SRE;10;Senior;Terraform ;75000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 12:21;28;Male;ML Engineer;2;Middle;Java;36000;36;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:23;30;Female;Data Scientist;6;Senior;python;76000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:27;30;Male;Data Engineer;5;Lead;;90000;26;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:29;26;Male;Data Engineer;2;Middle;Python;54000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:41;25;Male;Data Engineer;3;Senior;Scala;65000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 12:44;30;Male;Product Manager;3;Junior;;30000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 12:44;27;Male;DevOps;4;Middle;AWS;66000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 12:47;28;Male;Product Manager;7;Head;;60000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 13:02;22;Male;Presales Engineer ;4;Middle;Java, .Net;63000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 13:03;37;Female;Data Scientist;2;Middle;Python;62000;30;Full-time employee;Unlimited contract;German;large
+25.11.2020 13:05;25;Male;Data Scientist;1;Junior;Python, statistics, SQL;51000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:12;33;Male;Backend Developer;11;Senior;Scala;154000;22;Self-employed (freelancer);Temporary contract;German;small
+25.11.2020 13:37;25;Male;Software Engineer;5;Senior;Node.js;57000;24;Full-time employee;Temporary contract;English;micro
+25.11.2020 13:39;26;Female;Data Scientist;4;Middle;Sql, BQ, tableau, gtm, ga;45000;25;Full-time employee;Temporary contract;English;large
+25.11.2020 13:41;29;Male;Frontend Developer;3;Middle;React ;43000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 13:41;22;Female;Business Development Manager Operations ;4;Middle;Business Development Manager Operation ;39000;24;Full-time employee;Temporary contract;English;extra-large
+25.11.2020 13:43;30;Male;Frontend Developer;4;Senior;TypeScript;73000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 13:45;30;Male;Frontend Developer;11;Senior;Typescript;74000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:45;28;Female;Program Manager;10;Senior;Management;86000;31;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:49;29;Male;Frontend Developer;9;Senior;Javascript / Typescript;74000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:50;32;Male;DevOps;10;Middle;Bash;55000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 13:51;36;Male;Researcher;4;Middle;C++;40000;28;Full-time employee;Temporary contract;English;micro
+25.11.2020 13:51;32;Male;Product Manager;7;Senior;;85000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 13:54;30;Female;Software Engineer;4;Middle;Python;56000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:55;29;Male;Software Engineer;7;Middle;C++;70000;30;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 13:56;32;Female;QA Engineer;10;Middle;Java;68000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:57;34;Male;QA Engineer;10;Senior;JS;70000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:58;30;Male;Data Scientist;6;Senior;;72000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 13:59;40;Male;Engineering manager;15;Head;Python;80000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:00;31;Male;Software Engineer;8;Senior;Java, Kotlin;77000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:00;38;Male;Data Scientist;15;Senior;Python;56000;21;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:02;39;Male;Data Scientist;10;Senior;R;80000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:08;35;Male;Backend Developer;13;Senior;Nodejs;90000;31;Full-time employee;Unlimited contract;English;micro
+25.11.2020 14:08;30;Female;QA Engineer;5;Middle;TS;54000;28;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:08;36;Male;Engineering Manager;18;Head;C++;98000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:09;41;Male;Backend Developer;20;Senior;Python;93000;29;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:14;41;Male;Software Engineer;18;Lead;PHP;100000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 14:21;28;Female;Data Scientist;6;Senior;sql;70000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:21;33;Male;Software Engineer;10;Lead;javascript;75000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 14:26;31;Male;Software Engineer;3;Middle;JavaScript ;63000;30;Full-time employee;Unlimited contract;German;medium-size
+25.11.2020 14:27;29;Male;Backend Developer;5;Senior;Java;70000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:32;23;Male;Backend Developer;3;Middle;Java;80000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:35;34;Male;QA Engineer;10;Lead;Java;85000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 14:37;45;Male;Backend Developer;30;Senior;PHP;55000;24;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:37;37;Male;Embedded Software Engineer;15;Senior;C/C++;78000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:37;31;Male;Software Engineer;9;Lead;javascript;99000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 14:48;32;Male;Backend Developer;15;Senior;Golang;90000;25;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:53;45;Female;Product Manager;15;Lead;Java;52000;28;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:55;42;Male;Software Engineer;16;Senior;java/scala/go/clouds/devops;36000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:56;23;Male;Dana Analyst;4;Middle;;45000;26;Full-time employee;Unlimited contract;English;small
+25.11.2020 14:56;36;Male;Backend Developer;14;Middle;JS;75000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 14:57;40;Male;Team Manager;20;Lead;C#;85000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 14:58;28;Male;Backend Developer;7;Senior;Java;95000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 14:58;35;Male;Backend Developer;15;Senior;C;63000;30;Full-time employee;Unlimited contract;German;medium-size
+25.11.2020 15:03;37;Male;Backend Developer;12;Senior;Java;102000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 15:03;33;Male;Software Engineer;10;Lead;C/C++;95000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 15:05;33;Male;Backend Developer;13;Senior;Java;78600;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 15:11;31;Male;Software Engineer;10;Lead;Java ;70000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 15:16;31;Male;Software Engineer;4;Middle;Java;67000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 15:27;28;Male;Software Engineer;3;Middle;Java;42000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 15:51;31;Male;QA Engineer;6;Senior;Python;53000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 15:53;40;Male;Software Engineer;20;Lead;Swift;250000;45;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 16:06;25;Female;Software Engineer;3;Middle;Java;53000;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 16:08;35;Male;Data Analyst;9;Senior;Python;77000;28;Full-time employee;Unlimited contract;German;large
+25.11.2020 16:08;35;Male;Software Engineer;15;Senior;.net;80000;30;Full-time employee;Unlimited contract;English;small
+25.11.2020 16:10;41;Male;DevOps;20;Senior;Linux/UNIX, GIT, Virtualisation Platforms, *shell(s) scripts;58800;35;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 16:16;33;Male;DevOps;8;Senior;AWS;75000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 16:17;33;Male;Data Engineer;13;Senior;Python;85000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 16:26;38;Male;Software Engineer;15;Senior;Java;70000;26;Full-time employee;Unlimited contract;English;small
+25.11.2020 16:39;35;Male;Software Engineer;10;Senior;php;78000;27;Full-time employee;Unlimited contract;German;micro
+25.11.2020 16:42;36;Female;Data Scientist;5;Senior;Python;75000;28;Part-time employee;Unlimited contract;English;medium-size
+25.11.2020 16:50;49;Male;Software Engineer;27;Senior;Java;57000;30;Full-time employee;Unlimited contract;German;large
+25.11.2020 17:02;32;Female;Software Engineer;6;Lead;Java;75000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 17:06;27;Female;Data Analyst ;1;Middle;Python, SQL;63000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 17:08;31;Male;Data Scientist;6;Senior;python;60000;30;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 17:09;31;Male;Mobile Developer;8;Senior;Swift;60000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 17:11;28;Male;Backend Developer;4;Middle;Java;44000;30;Full-time employee;Unlimited contract;German;large
+25.11.2020 17:13;28;Female;Frontend Developer;3;Middle;JavaScript;54500;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 17:20;27;Male;Software Engineer;2;Lead;DWH;90000;31;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 17:20;29;Male;Frontend Developer;8;Head;JavaScript;82500;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 17:45;32;Female;Data Engineer;10;Middle;Python;75000;27;Full-time employee;Unlimited contract;English;small
+25.11.2020 17:45;28;Male;QA Engineer;5;Middle;QA;60000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 17:48;38;Male;Mobile Developer;16;Senior;Swift;85000;24;Full-time employee;Unlimited contract;English;large
+25.11.2020 17:48;29;Male;Data Engineer;3;Middle;Azure;54000;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 17:49;30;Male;Backend Developer;7;Senior;C++;65000;33;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 17:58;33;Female;Designer (UI/UX);6;Middle;Sketch, Figma;42000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 18:00;30;Male;Data Scientist;6;Junior;Python;51000;30;Full-time employee;Unlimited contract;German;large
+25.11.2020 18:02;31;Male;Product Manager;5;Lead;n/a;76000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 18:04;37;Male;Mobile Developer;16;Senior;iOS;65000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 18:12;32;Male;Mobile Developer;13;Senior;Kotlin;85000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:15;32;Female;QA Engineer;9;Middle;;60000;30;Full-time employee;Unlimited contract;German;large
+25.11.2020 18:19;40;Male;Product Manager;13;Head;;90000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:19;30;Male;Software Engineer;7;Senior;Java;86000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:24;30;Male;Software Engineer;8;Senior;JS;60000;25;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 18:28;32;Male;QA Engineer;10;Senior;js;81000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:28;32;Male;DevOps;7;Middle;k8s;60000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 18:31;34;Male;Software Engineer;12;Senior;Java;74000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 18:45;43;Male;Backend Developer;10;Senior;Php;57600;26;Full-time employee;Unlimited contract;German;large
+25.11.2020 18:49;33;Male;Software Engineer;13;Senior;Java;70000;24;Full-time employee;Unlimited contract;English;large
+25.11.2020 18:51;28;Female;QA Engineer;8;Senior;Kotlin;75000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 18:51;33;Male;Software Engineer;11;Senior;Java;65000;28;Full-time employee;Unlimited contract;English;small
+25.11.2020 18:53;33;Male;Software Engineer;11;Lead;Frontend: react, node.js;90000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:56;51;Male;Software Engineer;30;Senior;VB, RPA, Python;60000;30;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 18:57;35;Male;Software Engineer;8;Senior;Go;90000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 18:58;35;Male;Software Engineer;1;Junior;FBD;30000;26;Full-time employee;Unlimited contract;German;micro
+25.11.2020 19:02;28;Male;Software Engineer;6;Middle;C, C++;64000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 19:02;25;Male;Mobile Developer;2;Middle;Swift, Objective-C, iOS;44000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 19:10;32;Male;Backend Developer;10;Lead;Ruby;80000;28;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 19:15;32;Male;Software Engineer;9;Lead;Embedded;73000;28;Full-time employee;Unlimited contract;English;large
+25.11.2020 19:31;26;Male;Architect ;9;Head;Go;120000;24;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 19:33;25;Male;Software Engineer;6;Senior;JavaScript / TypeScript;71750;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 19:38;27;Female;Backend Developer;5;Middle;Kotlin;65000;30;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 19:44;28;Male;Frontend Developer;7;Senior;Javascript;80000;29;Full-time employee;Unlimited contract;English;small
+25.11.2020 19:44;32;Female;QA Engineer;8;Senior;Java;60000;26;Full-time employee;Unlimited contract;English;large
+25.11.2020 19:54;28;Male;Backend Developer;7;Senior;Java;66000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 19:57;34;Male;Frontend Developer;13;Lead;JavaScript;85000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 20:01;35;Male;Data Scientist;10;Middle;python;65000;25;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 20:13;38;Male;Head of Engineering;20;Head;Java;130000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 20:31;36;Male;Product Manager;10;Senior;;85000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 20:34;31;Female;QA Engineer;8;Middle;Java;45000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 20:41;43;Male;SAP Consultant;20;Senior;SAP / ABAP;82000;32;Full-time employee;Unlimited contract;German;extra-large
+25.11.2020 20:42;38;Male;Data Scientist;15;Head;Python;100000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 20:47;35;Male;DevOps;17;Lead;Kubrrnetes;72000;30;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 20:52;32;Male;DevOps;10;Middle;python;62000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 21:05;43;Male;DevOps;21;Lead;;83000;28;Full-time employee;Unlimited contract;German;medium-size
+25.11.2020 21:19;37;Male;Mobile Developer;17;Senior;Swift;77000;28;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 21:48;29;Male;Mobile Developer;5;Senior;iOS;65000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 22:11;38;Male;Backend Developer;4;Middle;PHP;43000;30;Full-time employee;Unlimited contract;English;micro
+25.11.2020 22:40;29;Male;Frontend Developer;6;Middle;TypeScript;55000;30;Full-time employee;Unlimited contract;German;small
+25.11.2020 23:01;35;Male;QA Engineer;12;Senior;JS;63000;30;Full-time employee;Unlimited contract;English;large
+25.11.2020 23:03;41;Male;Software Engineer;19;Senior;Java;75000;27;Full-time employee;Unlimited contract;English;large
+25.11.2020 23:08;26;Female;BI Consultant SAP/ Data Engineer;5;Middle;ABAP;65000;30;Full-time employee;Unlimited contract;German;micro
+25.11.2020 23:30;30;Male;Data Engineer;6;Middle;Python;65000;27;Full-time employee;Unlimited contract;English;extra-large
+25.11.2020 23:32;26;Male;DevOps;3;Middle;networking, linux, automation, cloud;37000;25;Full-time employee;Unlimited contract;English;medium-size
+25.11.2020 23:42;35;Female;Backend Developer;4;Middle;PHP;51000;30;Full-time employee;Unlimited contract;German;large
+26.11.2020 00:00;44;Male;Business Analyst;15;Head;UML;60000;30;Self-employed (freelancer);Unlimited contract;English;large
+26.11.2020 00:16;32;Male;Frontend Developer;13;Senior;JavaScript;70000;25;Full-time employee;Unlimited contract;English;small
+26.11.2020 04:00;33;Male;Data Scientist;2;Lead;Spark;70000;25;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 04:00;32;Male;Frontend Developer;8;Senior;Js, reactJS ;65000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 04:18;26;Male;Data Engineer;4;Middle;Scala;51000;30;Full-time employee;Unlimited contract;English;small
+26.11.2020 06:01;43;Male;Engineering Manager;20;Lead;Java;105000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 07:06;33;Male;Software Engineer;11;Senior;JavaScript ;80000;30;Full-time employee;Unlimited contract;English;large
+26.11.2020 07:14;35;Female;Software Engineer;1;Junior;ABAP;50000;30;Full-time employee;Unlimited contract;German;medium-size
+26.11.2020 08:04;28;Male;Frontend Developer;5;Middle;JavaScript;72000;28;Full-time employee;Unlimited contract;German;small
+26.11.2020 08:35;36;Male;DevOps;16;Senior;SRE;105000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 08:37;27;Male;Data Engineer;2;Junior;Python ;49000;30;Full-time employee;Unlimited contract;German;small
+26.11.2020 08:39;36;Male;Backend Developer;4;Middle;Java;55000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 08:40;38;Male;Backend Developer;5;Middle;Java;66000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 08:40;28;Male;Mobile Developer;6;Middle;Android;85000;32;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 08:41;25;Male;Mobile Developer;8;Senior;Clojure;85000;24;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 08:42;30;Male;Frontend Developer;6;Senior;Javascript;79000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 09:02;30;Male;Backend Developer;8;Middle;Python;74000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 09:09;28;Male;Backend Developer;8;Lead;Ruby;67000;28;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 09:13;32;Female;DevOps;9;Middle;Terraform, Kubernetes, AWS, GCP, Ansible, Puppet;74000;40;Full-time employee;Unlimited contract;English;large
+26.11.2020 09:20;29;Male;Frontend Developer;3;Middle;JavaScript ;48000;26;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 09:26;30;Female;Product Manager;8;Middle;;57760;30;Full-time employee;Unlimited contract;English;small
+26.11.2020 09:38;35;Male;Software Engineer;13;Lead;TypeScript;103000;29;Full-time employee;Unlimited contract;English;large
+26.11.2020 09:40;33;Male;Frontend Developer;10;Senior;JS;74000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 09:49;34;Male;Backend Developer;13;Senior;Elixir;70000;30;Full-time employee;Unlimited contract;English;large
+26.11.2020 09:50;25;Male;Backend Developer;6;Senior;Go;86000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 09:51;42;Female;QA Engineer;5;Middle;Java;46000;26;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 10:07;25;Female;computer vision researcher;3;Junior;Python;23000;30;Full-time employee;Temporary contract;English;medium-size
+26.11.2020 10:11;40;Male;Backend Developer;14;Lead;Spring;135000;30;Self-employed (freelancer);Temporary contract;English;large
+26.11.2020 10:14;33;Male;Software Engineer;11;Senior;Python;80000;30;Full-time employee;Temporary contract;English;large
+26.11.2020 10:31;39;Male;Teamlead;12;Head;PHP ;75000;30;Full-time employee;Unlimited contract;German;micro
+26.11.2020 10:31;24;Male;Software Engineer;2;Junior;Javascript;50000;30;Full-time employee;Unlimited contract;German;extra-large
+26.11.2020 10:40;24;Female;Software Engineer;3;Middle;Java;29000;20;Full-time employee;Unlimited contract;English;small
+26.11.2020 10:53;39;Male;Engineering Manager;15;Lead;Java;78000;30;Full-time employee;Unlimited contract;German;large
+26.11.2020 10:59;33;Male;Backend Developer;8;Senior;C#;75000;27;Full-time employee;Temporary contract;English;small
+26.11.2020 11:13;29;Male;Software Engineer;6;Middle;Swift;70000;28;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 11:33;29;Female;Software Engineer;5;Middle;PHP;55000;24;Full-time employee;Unlimited contract;English;small
+26.11.2020 11:46;34;Male;Hardware Engineer;12;Senior;;56000;30;Full-time employee;Unlimited contract;English;micro
+26.11.2020 11:49;30;Male;Backend Developer;9;Head;Java;85000;25;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 11:50;31;Male;ML Engineer;7;Middle;Python;80000;28;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 12:20;33;Male;Mobile Developer;8;Senior;swift;75000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 12:21;31;Female;Software Engineer;1;Junior;React;57000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 12:47;36;Male;Software Engineer;16;Middle;.Net;65000;30;Full-time employee;Unlimited contract;German;medium-size
+26.11.2020 13:35;30;Male;DevOps;7;Middle;;80000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 14:10;30;Male;Mobile Developer;8;Senior;Swift;60000;50;Self-employed (freelancer);Temporary contract;English;micro
+26.11.2020 15:14;32;Male;Software Engineer;11;Senior;C++;100000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 15:29;35;Male;Backend Developer;12;Senior;php;54000;27;Full-time employee;Unlimited contract;English;large
+26.11.2020 15:31;34;Male;Data Scientist;6;Senior;python;80000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 15:37;26;Male;Data Scientist;4;Middle;Python;60000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 16:20;29;Male;Mobile Developer;7;Senior;Kotlin;64000;30;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 17:24;31;Male;Software Engineer;12;Senior;Java;60000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 17:25;30;Male;Backend Developer;8;Senior;;73000;25;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 17:27;33;Male;Software Engineer;10;Senior;Python;80000;28;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 17:45;28;Male;Data Engineer;6;Middle;Python;83000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 18:08;33;Male;Designer (UI/UX);7;Senior;;42000;24;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 18:57;35;Male;Data Scientist;3;Middle;Python;68000;26;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 19:22;35;Male;Consultant;16;Senior;Python;100000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 19:22;31;Male;Software Engineer;8;Senior;Typescript ;80000;28;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 19:25;32;Male;Software Engineer;13;Junior;C;48000;28;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 20:19;38;Male;Software Engineer;15;Senior;Go;75000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 20:19;29;Male;Engineering Manager;9;Lead;Go;85000;27;Full-time employee;Unlimited contract;English;large
+26.11.2020 20:41;33;Male;Backend Developer;13;Senior;Java;110000;24;Full-time employee;Unlimited contract;English;large
+26.11.2020 20:57;30;Male;DevOps;7;Senior;;70000;26;Full-time employee;Unlimited contract;English;large
+26.11.2020 21:13;28;Male;Fullstack Developer;6;Senior;JavaScript;75000;23;Full-time employee;Unlimited contract;English;small
+26.11.2020 21:13;32;Male;Senior Data Engineer;9;Senior;Python;90000;30;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 21:19;39;Male;Frontend Developer;10;Senior;Javascript;85000;27;Full-time employee;Unlimited contract;English;large
+26.11.2020 21:22;31;Male;Frontend Developer;6;Senior;TypeScript/Angular;110000;30;Full-time employee;Unlimited contract;English;small
+26.11.2020 21:29;33;Male;Software Engineer;10;Senior;golang;110000;30;Full-time employee;Unlimited contract;English;large
+26.11.2020 21:30;30;Male;QA Engineer;8;Senior;Python;68000;30;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 21:35;39;Female;DevOps;11;Lead;;93000;30;Part-time employee;Unlimited contract;German;extra-large
+26.11.2020 21:42;30;Female;Analyst;2;Junior;R;45000;28;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 21:49;37;Male;Software Engineer;15;Senior;C#;80000;30;Full-time employee;Unlimited contract;German;medium-size
+26.11.2020 21:50;42;Male;Software Engineer;20;Senior;PHP;65000;27;Full-time employee;Unlimited contract;English;large
+26.11.2020 22:09;28;Male;IT Manager;6;Middle;;65000;28;Full-time employee;Unlimited contract;English;medium-size
+26.11.2020 22:35;31;Male;QA Engineer;9;Middle;Java;60000;30;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 22:41;20;Male;Mobile Developer;5;Lead;C#;240000;27;Full-time employee;Unlimited contract;English;extra-large
+26.11.2020 22:44;34;Female;QA Engineer;11;Senior;Python;60000;28;Full-time employee;Unlimited contract;German;extra-large
+26.11.2020 23:22;38;Male;Head of IT ;15;Head;;80000;30;Full-time employee;Unlimited contract;English;large
+26.11.2020 23:26;35;Male;Engineering Manager;20;Lead;Go;85000;26;Full-time employee;Unlimited contract;English;small
+26.11.2020 23:34;31;Male;Software Engineer;14;Senior;C++;75000;30;Full-time employee;Unlimited contract;English;large
+26.11.2020 23:40;37;Male;Software Engineer;11;Senior;Python;73000;28;Full-time employee;Unlimited contract;English;large
+26.11.2020 23:45;37;Male;Backend Developer;12;Lead;Kotlin/PHP;90000;28;Full-time employee;Unlimited contract;English;small
+27.11.2020 00:02;34;Male;Mobile Developer;9;Senior;iOS;80000;27;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 00:29;25;Male;Data Scientist;1;Junior;Python;42000;30;Full-time employee;Unlimited contract;English;micro
+27.11.2020 00:33;42;Male;Software Engineer;20;Senior;C++;70000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 00:35;35;Female;Product Manager;13;Senior;;85000;26;Full-time employee;Unlimited contract;English;large
+27.11.2020 06:57;37;Male;QA Engineer;8;Middle;;54000;30;Full-time employee;Unlimited contract;German;large
+27.11.2020 08:08;33;Female;Data Scientist;8;Senior;Python ;77000;27;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 10:25;46;Male;Software Engineer;13;Middle;C++;70000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 10:43;30;Male;DevOps;11;Senior;;80000;26;Full-time employee;Unlimited contract;English;large
+27.11.2020 11:04;34;Male;Lead Software Developer;13;Lead;C#;65000;30;Full-time employee;Unlimited contract;English;medium-size
+27.11.2020 11:09;35;Male;Software Engineer;15;Senior;Java;85000;25;Full-time employee;Unlimited contract;English;small
+27.11.2020 11:44;27;Male;Backend Developer;4;Senior;Go;70000;25;Full-time employee;Unlimited contract;English;small
+27.11.2020 11:46;31;Male;Software Engineer;7;Lead;python;80000;28;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 11:53;24;Male;Software Engineer;2;Junior;Java;60000;28;Full-time employee;Unlimited contract;German;micro
+27.11.2020 12:01;28;Male;Data Engineer;7;Senior;Python;90000;27;Full-time employee;Unlimited contract;English;large
+27.11.2020 12:03;42;Male;Backend Developer;18;Middle;PHP;53000;26;Full-time employee;Unlimited contract;English;small
+27.11.2020 12:05;27;Male;Data Scientist;5;Middle;Python;55000;24;Full-time employee;Unlimited contract;English;medium-size
+27.11.2020 12:16;30;Male;Software Engineer;5;Middle;Python;45000;30;Full-time employee;Unlimited contract;English;micro
+27.11.2020 12:26;26;Male;Software Engineer;2;Middle;TypeScript;58000;28;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 12:30;37;Male;ML Engineer;15;Lead;Python;80000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 12:42;39;Male;Software Engineer;8;Senior;Python;130000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 12:53;30;Male;Data Scientist;5;Head;Python;80000;25;Full-time employee;Unlimited contract;English;small
+27.11.2020 12:56;44;Male;Software Engineer;10;Senior;SAP ABAP;75000;30;Full-time employee;Unlimited contract;Russian;large
+27.11.2020 13:02;26;Male;ML Engineer;5;Senior;Spark;180000;40;Self-employed (freelancer);Temporary contract;German;micro
+27.11.2020 13:02;30;Male;Software Engineer;10;Senior;Go;151872;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 13:12;26;Male;ML Engineer;3;Middle;Python;48000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 13:21;25;Female;ML Engineer;1;Junior;AI;57000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 13:31;38;Female;ML Engineer;3;Middle;Python;65000;30;Full-time employee;Temporary contract;German;extra-large
+27.11.2020 13:38;40;Male;Product Manager;13;Head;;90000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 13:41;28;Male;Mobile Developer;5;Senior;Swift;50000;24;Full-time employee;Unlimited contract;English;small
+27.11.2020 13:47;29;Female;Data Scientist;2;Junior;R;52000;30;Full-time employee;Unlimited contract;German;micro
+27.11.2020 14:08;30;Female;ML Engineer;5;Middle;pythin;51000;30;Full-time employee;Unlimited contract;English;small
+27.11.2020 14:14;28;Male;Software Engineer;6;Middle;C#;52800;26;Full-time employee;Unlimited contract;English;medium-size
+27.11.2020 14:43;42;Male;Software Engineer;12;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 14:52;29;Male;Data Scientist;4;Middle;Python;61500;30;Full-time employee;Unlimited contract;English;small
+27.11.2020 14:54;29;Male;Software Engineer;4;Middle;R;78000;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 15:26;27;Female;Backend Developer;1;Junior;Java;42000;28;Full-time employee;Unlimited contract;German;large
+27.11.2020 15:31;37;Male;Software Engineer;14;Head;Typescript;84000;30;Full-time employee;Unlimited contract;English;micro
+27.11.2020 15:49;31;Male;Data Scientist;10;Lead;Python;100000;30;Full-time employee;Unlimited contract;English;small
+27.11.2020 15:57;35;Male;Data Analyst;5;Middle;R;49000;26;Full-time employee;Unlimited contract;English;large
+27.11.2020 16:22;27;Male;Data Scientist;4;Junior;Python;60000;15;Full-time employee;Temporary contract;English;medium-size
+27.11.2020 16:43;29;Male;Data Analyst ;6;Middle;Python;68000;28;Full-time employee;Unlimited contract;English;large
+27.11.2020 17:18;36;Male;Backend Developer;5;Senior;Java;70000;28;Full-time employee;Unlimited contract;English;large
+27.11.2020 17:21;33;Male;Backend Developer;10;Senior;Java;70000;30;Full-time employee;Unlimited contract;English;small
+27.11.2020 17:38;42;Male;Software Engineer;12;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 17:46;32;Female;BI Analyst ;1;Junior;Sql ;48000;28;Full-time employee;Unlimited contract;English;large
+27.11.2020 17:47;30;Male;Software Engineer;10;Lead;Frontend;115000;28;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 18:13;29;Female;Software Engineer;4;Middle;Java/Kotlin;60000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 19:08;35;Female;Frontend Developer;2;Junior;React;40000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 19:13;36;Male;Software Engineer;14;Senior;C++/c;81500;30;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 19:45;34;Male;BI Developer / Data Engineer;10;Senior;SQL;75000;30;Full-time employee;Unlimited contract;English;large
+27.11.2020 19:50;34;Male;DevOps;12;Lead;Kubernetes;94000;28;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 20:17;31;Male;ML Engineer;4;Senior;Python;100000;20;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 20:41;34;Female;QA Engineer;7;Senior;Java;55000;25;Full-time employee;Unlimited contract;English;large
+27.11.2020 21:00;33;Male;Frontend Developer;14;Senior;Angular, Typescript;80000;28;Full-time employee;Unlimited contract;German;small
+27.11.2020 21:29;33;Male;Software Engineer;8;Senior;C#;67000;28;Full-time employee;Unlimited contract;English;small
+27.11.2020 21:35;33;Male;Backend Developer;12;Middle;PHP;56000;28;Full-time employee;Unlimited contract;English;large
+27.11.2020 22:14;31;Male;Backend Developer;5;Senior;Python;77000;28;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 22:20;26;Male;Data Scientist;2;Junior;Pyrhon;55000;27;Full-time employee;Unlimited contract;English;extra-large
+27.11.2020 22:35;42;Male;Software Engineer;12;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;large
+28.11.2020 07:10;33;Male;Product Manager;5;Middle;PM tools;70000;26;Full-time employee;Temporary contract;English;extra-large
+28.11.2020 08:39;33;Male;Senior Scrum Master (RTE);7;Lead;C++;90000;30;Full-time employee;Unlimited contract;German;extra-large
+28.11.2020 10:53;36;Male;QA Engineer;9;Senior;;64000;30;Full-time employee;Unlimited contract;English;large
+28.11.2020 12:31;31;Male;Backend Developer;9;Senior;Grails, Groovy;67473;28;Full-time employee;Unlimited contract;English;large
+28.11.2020 12:42;42;Male;Software Engineer;12;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;large
+28.11.2020 13:49;30;Male;Head of BI;7;Head;Python;100000;30;Full-time employee;Unlimited contract;English;large
+28.11.2020 14:13;32;Female;QA Engineer;10;Lead;Java;65000;33;Full-time employee;Unlimited contract;German;extra-large
+28.11.2020 17:56;34;Male;Software Engineer;16;Lead;Ruby;91000;26;Full-time employee;Unlimited contract;English;large
+28.11.2020 19:20;35;Male;Data Scientist;15;Middle;C++;60000;30;Full-time employee;Temporary contract;English;large
+28.11.2020 19:42;33;Male;SRE;10;Senior;PHP;79000;30;Full-time employee;Unlimited contract;English;extra-large
+28.11.2020 20:21;39;Male;Technical project manager;12;Senior;PHP;65000;30;Full-time employee;Unlimited contract;German;extra-large
+28.11.2020 20:23;39;Female;Project manager ;13;Senior;;108000;30;Full-time employee;Unlimited contract;German;extra-large
+28.11.2020 21:02;25;Female;support engineer;2;Middle;python ;45000;26;Full-time employee;Unlimited contract;English;extra-large
+28.11.2020 22:07;34;Male;Frontend Developer;4;Middle;JavaScript;66000;30;Full-time employee;Unlimited contract;English;large
+28.11.2020 22:16;28;Male;Software Engineer;8;Senior;.NET;75000;28;Full-time employee;Unlimited contract;English;large
+29.11.2020 01:29;35;Male;Frontend Developer;6;Middle;React / JavaScript;66500;27;Full-time employee;Unlimited contract;English;extra-large
+29.11.2020 03:48;38;Male;Backend Developer;8;Senior;Perl;64000;30;Full-time employee;Unlimited contract;German;extra-large
+29.11.2020 09:34;34;Male;Backend Developer;13;Lead;Java;105000;30;Full-time employee;Unlimited contract;English;small
+29.11.2020 10:06;36;Male;Software Engineer;8;Senior;kotlin;83000;30;Full-time employee;Unlimited contract;English;extra-large
+29.11.2020 10:27;30;Female;Software Engineer;8;Senior;Java;52000;28;Full-time employee;Unlimited contract;German;extra-large
+29.11.2020 13:17;27;Male;Data Engineer;6;Middle;Python;74000;25;Full-time employee;Unlimited contract;English;extra-large
+29.11.2020 14:27;27;Male;QA Engineer;5;Middle;Java;56700;30;Full-time employee;Unlimited contract;English;large
+29.11.2020 15:23;33;Male;Software Engineer;7;Middle;Ruby;54000;28;Full-time employee;Temporary contract;English;medium-size
+29.11.2020 15:26;29;Male;Security engineer;7;Middle;;72000;25;Full-time employee;Unlimited contract;English;large
+29.11.2020 17:48;25;Male;DevOps;2;Junior;Python;65000;28;Full-time employee;Unlimited contract;English;extra-large
+29.11.2020 20:04;34;Male;Software Architect;14;Lead;Haskell;100000;30;Full-time employee;Temporary contract;English;medium-size
+29.11.2020 20:24;29;Male;Frontend Developer;8;Senior;JavScript;77250;27;Full-time employee;Unlimited contract;English;large
+29.11.2020 21:34;36;Male;Software Engineer;5;Middle;JavaScript;60000;26;Full-time employee;Unlimited contract;English;large
+30.11.2020 09:07;43;Male;Software Engineer;20;Middle;Ruby;70000;25;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 09:57;32;Male;Frontend Developer;10;Lead;js;80000;25;Full-time employee;Unlimited contract;English;small
+30.11.2020 10:49;36;Male;Software Engineer;20;Lead;Java;74000;28;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 10:49;38;Female;Data Scientist;14;Middle;R;70000;32;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 10:50;27;Male;QA Engineer;3;Middle;;55000;30;Full-time employee;Unlimited contract;German;large
+30.11.2020 10:52;26;Male;Backend Developer;2;Junior;Php;25000;24;Full-time employee;Unlimited contract;German;small
+30.11.2020 10:58;26;Male;Data Scientist;2;Junior;Python;48000;25;Full-time employee;Temporary contract;English;medium-size
+30.11.2020 11:03;34;Male;Software Engineer;6;Head;C++;90000;30;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 11:08;30;Male;Big Data Engineer;3;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 11:13;35;Male;Designer (UI/UX);10;Senior;;50400;29;Full-time employee;Unlimited contract;German;small
+30.11.2020 11:16;30;Male;Business Analyst;7;Senior;SQL;68500;26;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 11:23;26;Male;Software Engineer;5;Middle;Python (Django);69000;27;Full-time employee;Unlimited contract;English;large
+30.11.2020 11:24;30;Female;QA Engineer;7;Senior;Python;48000;30;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 11:32;33;Female;Software Engineer;6;Middle;C++;58000;30;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 11:34;26;Male;Backend Developer;6;Senior;Go;70000;27;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 11:38;29;Male;Data Scientist;6;Middle;Python ;57000;28;Full-time employee;Unlimited contract;English;micro
+30.11.2020 11:44;36;Male;Data Scientist;5;Senior;Python;106000;25;Full-time employee;Unlimited contract;English;small
+30.11.2020 11:45;23;Male;Data Analyst;3;Senior;Python;49200;21;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 11:56;41;Male;CTO;22;Head;Python;50000;31;Full-time employee;Unlimited contract;Italian;medium-size
+30.11.2020 12:06;28;Male;ML Engineer;1;Junior;Python;43000;14;Full-time employee;Unlimited contract;English;micro
+30.11.2020 12:07;35;Male;Data Scientist;12;Senior;Python;77000;27;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 12:08;37;Female;Data Scientist;8;Middle;Python ;67000;28;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 12:10;26;Male;Software Engineer;4;Middle;JavaScript;21000;22;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 12:11;24;Male;ML Engineer;5;Senior;Python;64000;20;Full-time employee;Unlimited contract;English;small
+30.11.2020 12:11;35;Male;Manager ;6;Head;C;90000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 12:13;27;Male;Data Scientist;2;Junior;SQL;25300;24;Full-time employee;Temporary contract;Italian;extra-large
+30.11.2020 12:17;27;Female;Backend Developer;6;Senior;Java;85600;25;Full-time employee;Unlimited contract;English;large
+30.11.2020 12:24;29;Male;Data Scientist;2;Middle;Python;55200;30;Full-time employee;Temporary contract;English;extra-large
+30.11.2020 12:32;29;Male;AI Management;6;Head;Python;92000;30;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 12:45;34;Male;Backend Developer;14;Lead;Kotlin;96000;29;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 12:55;35;Male;Data Scientist;12;Lead;Python;85000;38;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 12:56;54;Male;Sales ;31;Head;Network Automation;110000;29;Full-time employee;Unlimited contract;English;small
+30.11.2020 13:10;31;Male;Software Engineer;6;Senior;Kotlin;90000;28;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 13:12;30;Male;Software Engineer;5;Junior;C++;55000;30;Full-time employee;Unlimited contract;German;small
+30.11.2020 13:17;36;Male;Backend Developer;15;Senior;C++;172000;25;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 13:33;28;Male;XR Developer;8;Lead;C#;25000;1;Full-time employee;Temporary contract;English;small
+30.11.2020 13:52;36;Male;Data Scientist;2;Middle;Python;63000;30;Full-time employee;Unlimited contract;English;small
+30.11.2020 13:55;26;Male;DevOps;5;Middle;Kubernetes, Terraform, GCP;72000;23;Full-time employee;Unlimited contract;English;small
+30.11.2020 14:06;36;Male;DevOps;14;Middle;PowerShell;65000;30;Full-time employee;Unlimited contract;German;large
+30.11.2020 14:30;33;Male;Backend Developer;13;Senior;Python;83000;30;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 14:36;35;Male;Data Engineer;6;Senior;Java;200000;14;Self-employed (freelancer);Temporary contract;English;small
+30.11.2020 14:42;29;Male;Data Scientist;5;Lead;Python;115000;25;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 14:47;36;Male;Frontend Developer;6;Middle;JavaScript;58000;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 15:10;35;Male;Software Engineer;2;Middle;python, scala;50000;45;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 15:27;29;Male;Backend Developer;9;Senior;Java;75000;25;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 15:45;29;Male;DevOps;11;Lead;TypeScript;140000;5;Self-employed (freelancer);Unlimited contract;English;micro
+30.11.2020 15:48;32;Male;Backend Developer;14;Lead;Java;80000;28;Full-time employee;Unlimited contract;English;large
+30.11.2020 16:20;32;Female;Engineering Team Lead;10;Lead;QA;65000;28;Full-time employee;Unlimited contract;English;large
+30.11.2020 16:24;30;Male;Software Engineer;7;Senior;python;49000;12;Full-time employee;Temporary contract;English;small
+30.11.2020 16:32;30;Male;Data Scientist;2;Middle;Python;50000;30;Full-time employee;Unlimited contract;English;small
+30.11.2020 16:42;30;Male;ML Engineer;6;Middle;Python;59000;28;Full-time employee;Unlimited contract;English;medium-size
+30.11.2020 16:54;30;Male;Data Scientist;5;Middle;Python;52500;30;Full-time employee;Unlimited contract;English;small
+30.11.2020 16:57;48;Male;DevOps;15;Senior;Python;30000;30;Full-time employee;Unlimited contract;English;micro
+30.11.2020 17:05;31;Male;Data Analyst;7;Senior;Sql;83000;26;Full-time employee;Unlimited contract;English;large
+30.11.2020 18:24;38;Male;Software Engineer;15;Senior;C#;59000;30;Full-time employee;Unlimited contract;English;micro
+30.11.2020 18:25;22;Male;Backend Developer;3;Middle;PHP;10001;0;Self-employed (freelancer);Unlimited contract;English;micro
+30.11.2020 18:39;28;Male;Data Scientist;3;Middle;Python;50000;21;Self-employed (freelancer);Unlimited contract;English;large
+30.11.2020 18:41;29;Male;Data Scientist;5;Senior;Python;75000;24;Full-time employee;Unlimited contract;English;small
+30.11.2020 19:12;34;Male;Frontend Developer;5;Senior;Javascript / Typescript;54000;28;Full-time employee;Unlimited contract;English;large
+30.11.2020 19:23;27;Male;Frontend Developer;5;Middle;Javascript, Angular;58000;25;Full-time employee;Unlimited contract;English;large
+30.11.2020 19:28;34;Male;ML Engineer;3;Senior;Python;70000;30;Full-time employee;Temporary contract;English;large
+30.11.2020 20:09;28;Male;Software Engineer;2;Junior;C;48000;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 20:14;40;Male;Software Engineer;9;Middle;C;88000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 20:39;29;Male;Product Manager;5;Middle;;57750;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 20:56;27;Male;Software Engineer;1;Junior;C++;45000;30;Full-time employee;Unlimited contract;German;small
+30.11.2020 21:19;35;Female;Data Scientist;5;Senior;SAS,SQL,Python;75000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 21:31;29;Male;Software Engineer;9;Senior;Typescript;113000;25;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 21:45;38;Male;Product Manager;12;Senior;Node;74000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 21:48;32;Male;Data Engineer;7;Senior;Python/SQL;82000;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 21:57;37;Male;Data Scientist;10;Senior;Python;82000;30;Full-time employee;Unlimited contract;English;large
+30.11.2020 21:58;29;Male;DevOps;6;Senior;php, js, python, docker;64800;30;Full-time employee;Unlimited contract;English;small
+30.11.2020 22:13;32;Male;Software Engineer;7;Senior;C, Matlab;70000;30;Full-time employee;Unlimited contract;German;medium-size
+30.11.2020 22:18;40;Male;Software Engineer;16;Senior;C++;72000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 22:42;39;Male;Software Engineer;12;Lead;Javascript;82000;30;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 22:42;32;Male;DataOps Team Lead;10;Lead;Java;80000;25;Full-time employee;Unlimited contract;German;extra-large
+30.11.2020 23:26;26;Female;Backend Developer;5;Middle;Java;65000;28;Full-time employee;Unlimited contract;English;extra-large
+30.11.2020 23:38;30;Male;Software Engineer;9;Middle;TypeScript, Kotlin;77000;26;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 00:06;32;Female;Data Scientist;5;Senior;Python ;80000;30;Full-time employee;Unlimited contract;German;extra-large
+1.12.2020 00:16;32;Male;Software Engineer;8;Senior;C++;65000;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 00:20;31;Male;Software Engineer;5;Middle;Java;59064;30;Full-time employee;Unlimited contract;English;medium-size
+1.12.2020 00:25;30;Male;Software Engineer;10;Senior;Ruby;90000;30;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 00:32;30;Male;Software Sales;12;Senior;Cloud;150000;28;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 00:32;30;Female;QA Engineer;8;Senior;Javascript;70000;31;Full-time employee;Unlimited contract;English;large
+1.12.2020 00:38;25;Male;Backend Developer;5;Middle;Java;53500;29;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 01:32;30;Male;Software Engineer;9;Lead;;90000;25;Full-time employee;Unlimited contract;English;small
+1.12.2020 07:13;26;Male;Software Engineer;4;Middle;JavaScript / TypeScript;75000;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 08:00;32;Male;Product Manager;4;Senior;;65000;30;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 08:39;39;Male;Software Engineer;16;Senior;Embedded;62400;30;Full-time employee;Unlimited contract;Russian;extra-large
+1.12.2020 08:49;35;Male;Beikoch;1;Middle;Apotheker;30000;20;Full-time employee;Temporary contract;German;micro
+1.12.2020 08:52;38;Male;Software Engineer;16;Senior;.net;90000;36;Full-time employee;Unlimited contract;English;large
+1.12.2020 09:47;32;Male;Data Scientist;3;Senior;Python;62000;25;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 09:50;30;Female;Frontend Developer;9;Senior;JavaScript, TypeScript;60000;28;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 09:59;34;Male;Backend Developer;10;Middle;Java;65600;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 10:04;36;Male;Mobile Developer;14;Senior;Java;80000;30;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 10:11;26;Female;QA Engineer;2;Middle;Tricentis Tosca;32000;30;Full-time employee;Unlimited contract;German;extra-large
+1.12.2020 10:48;28;Female;Data Analyst;3;Middle;SQL;53000;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 11:17;25;Male;Software Engineer;6;Middle;Scala;65000;30;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 12:29;28;Male;Data Scientist;6;Lead;Python, SQL;78000;26;Full-time employee;Unlimited contract;English;medium-size
+1.12.2020 13:56;35;Male;Software Engineer;20;Senior;JavaScript;100000;32;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 13:58;25;Male;Data Scientist;1;Junior;Python ;38000;20;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 14:21;23;Female;Data analyst ;1;Junior;Sql ;36000;28;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 14:33;28;Male;Software Engineer;3;Junior;.NET;65000;30;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 16:16;30;Male;Software Engineer;9;Senior;.NET;60000;30;Full-time employee;Temporary contract;English;extra-large
+1.12.2020 16:16;30;Male;Software Engineer;9;Senior;.NET;60000;30;Full-time employee;Temporary contract;English;extra-large
+1.12.2020 16:36;28;Male;Software Engineer;6;Middle;C++;100000;25;Full-time employee;Unlimited contract;German;small
+1.12.2020 17:50;29;Male;Frontend Developer;5;Middle;javascript;66000;28;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 19:09;26;Male;Product Analyst;4;Middle;Python;55000;26;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 19:26;31;Male;Software Engineer;5;Middle;Java;74000;27;Full-time employee;Unlimited contract;English;extra-large
+1.12.2020 20:57;34;Female;QA Engineer;11;Senior;QA;60000;30;Full-time employee;Unlimited contract;German;extra-large
+1.12.2020 21:28;34;Male;DevOps;8;Senior;Embedded;67500;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 22:23;36;Male;Software Engineer;13;Head;Java;90000;30;Full-time employee;Unlimited contract;English;large
+1.12.2020 23:24;36;Male;DevOps;17;Head;Python;124000;28;Full-time employee;Unlimited contract;English;large
+2.12.2020 00:27;31;Male;Software Engineer;7;Senior;Java;75000;30;Full-time employee;Unlimited contract;English;large
+2.12.2020 04:49;28;Male;Software Engineer;8;Senior;PHP;57000;28;Full-time employee;Unlimited contract;English;medium-size
+2.12.2020 04:49;28;Male;Software Engineer;8;Senior;PHP;57000;28;Full-time employee;Unlimited contract;English;medium-size
+2.12.2020 08:56;36;Male;Backend Developer;16;Lead;Scala;120000;30;Full-time employee;Unlimited contract;English;large
+2.12.2020 10:35;22;Female;Frontend Developer;2;Junior;JS;24000;24;Full-time employee;Unlimited contract;English;small
+2.12.2020 11:52;26;Female;Backend Developer;7;Senior;;60000;24;Full-time employee;Unlimited contract;English;micro
+2.12.2020 12:06;30;Male;Backend Developer;4;Middle;python;58000;24;Full-time employee;Unlimited contract;English;large
+2.12.2020 14:20;35;Male;Software Engineer;12;Middle;Kotlin;75000;28;Full-time employee;Unlimited contract;English;extra-large
+2.12.2020 14:43;30;Male;Software Engineer;10;Middle;iOS;71000;27;Full-time employee;Unlimited contract;English;large
+2.12.2020 14:45;36;Male;DevOps;15;Junior;jenkins bash;52500;30;Full-time employee;Unlimited contract;English;small
+2.12.2020 17:06;28;Male;Software Engineer;5;Middle;Java;50000;25;Full-time employee;Unlimited contract;Russian;large
+2.12.2020 17:09;42;Male;Backend Developer;19;Senior;PHP;66000;26;Full-time employee;Unlimited contract;English;large
+2.12.2020 18:46;34;Male;Backend Developer;14;Senior;Kotlin;95000;28;Full-time employee;Unlimited contract;English;extra-large
+2.12.2020 21:42;36;Female;Data Scientist;5;Senior;Python;87000;30;Full-time employee;Unlimited contract;English;extra-large
+2.12.2020 21:53;31;Male;Software Engineer;4;Senior;Python;68000;30;Full-time employee;Unlimited contract;English;large
+2.12.2020 22:41;32;Female;It Consulting ;2;Junior;Test Management ;54000;27;Full-time employee;Unlimited contract;German;extra-large
+3.12.2020 08:53;32;Male;Software Engineer;13;Lead;JavaScript;83000;30;Full-time employee;Unlimited contract;English;extra-large
+3.12.2020 09:40;36;Male;ML Engineer;6;Senior;Python;110000;30;Full-time employee;Unlimited contract;English;large
+3.12.2020 10:59;26;Male;Software Engineer;6;Senior;TypeScript;93000;30;Full-time employee;Unlimited contract;English;small
+3.12.2020 11:04;28;Female;Data Scientist;4;Middle;Python;73700;28;Full-time employee;Unlimited contract;English;extra-large
+3.12.2020 11:52;34;Male;Data Scientist;10;Senior;Python;85000;28;Full-time employee;Unlimited contract;English;large
+3.12.2020 13:25;38;Male;Data Scientist;10;Senior;Python;87550;30;Full-time employee;Unlimited contract;German;large
+3.12.2020 13:58;37;Male;Software Engineer;16;Senior;Java;80000;27;Full-time employee;Unlimited contract;English;large
+3.12.2020 21:03;31;Male;Backend Developer;9;Senior;NodeJS/TS;65000;27;Full-time employee;Unlimited contract;English;medium-size
+3.12.2020 21:25;38;Male;Backend Developer;15;Middle;PHP/MySQL;40700;25;Full-time employee;Unlimited contract;English;small
+3.12.2020 22:07;25;Male;ML Engineer;2;Middle;Python;60000;28;Full-time employee;Unlimited contract;German;small
+4.12.2020 11:18;25;Male;Software Engineer;1;Junior;C#;43500;28;Full-time employee;Unlimited contract;German;medium-size
+4.12.2020 11:51;30;Female;Software Engineer;7;Senior;Java;60000;27;Full-time employee;Unlimited contract;English;medium-size
+4.12.2020 18:56;28;Female;Designer (UI/UX);5;Senior;;60000;26;Full-time employee;Unlimited contract;English;extra-large
+4.12.2020 19:00;45;Male;Data architect;19;Senior;;90000;30;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 00:19;35;Male;Software Engineer;14;Senior;C++;98000;30;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 03:34;25;Male;ML Engineer;2;Middle;NLP, Python;51000;24;Full-time employee;Temporary contract;English;micro
+5.12.2020 10:09;31;Male;Software Engineer;4;Senior;Java;69000;28;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 13:42;27;Male;Backend Developer;2;Middle;PHP;50000;28;Full-time employee;Unlimited contract;English;large
+5.12.2020 13:52;37;Male;Software Engineer;12;Middle;php;65000;26;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 14:54;27;Male;IT Manager;5;Middle;;73000;37;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 15:16;32;Male;ML Engineer;4;Middle;Python, Whole Apache Data Science Stack, AWS;37500;24;Full-time employee;Unlimited contract;German;large
+5.12.2020 17:29;28;Female;Backend Developer;3;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;extra-large
+5.12.2020 18:10;35;Male;Backend Developer;4;Middle;Java;42000;28;Full-time employee;Unlimited contract;English;medium-size
+5.12.2020 22:37;36;Male;Staff Engineer;15;Lead;Go;85000;28;Full-time employee;Unlimited contract;English;extra-large
+6.12.2020 14:46;32;Male;Designer (UI/UX);5;Senior;Java;70000;24;Self-employed (freelancer);Unlimited contract;German;micro
+6.12.2020 16:31;22;Male;Software Engineer;2;Junior;Java;45000;30;Full-time employee;Unlimited contract;German;extra-large
+6.12.2020 19:01;33;Male;Head of IT;3;Head;Python;100000;32;Full-time employee;Unlimited contract;German;medium-size
+6.12.2020 21:08;35;Male;Backend Developer;13;Senior;Php;68000;26;Full-time employee;Unlimited contract;English;extra-large
+6.12.2020 21:17;32;Female;Computational linguist;5;Middle;Java;50400;29;Full-time employee;Unlimited contract;English;small
+7.12.2020 03:52;28;Male;Product Analyst;4;Junior;SQL;55000;22;Full-time employee;Unlimited contract;English;extra-large
+7.12.2020 06:56;30;Male;Data Scientist;5;Middle;Python;55000;30;Full-time employee;Unlimited contract;English;large
+7.12.2020 09:25;32;Male;Backend Developer;10;Senior;Node.js;80000;24;Full-time employee;Unlimited contract;English;small
+7.12.2020 13:10;33;Male;Software Engineer;5;Senior;Embedded C++;61000;30;Full-time employee;Unlimited contract;English;extra-large
+7.12.2020 16:36;31;Male;Data Engineer;4;Middle;Python;50000;30;Full-time employee;Unlimited contract;English;large
+7.12.2020 19:49;30;Male;technical business analyst;5;Middle;;69000;30;Full-time employee;Unlimited contract;German;micro
+7.12.2020 21:22;32;Male;Software Engineer;10;Lead;Swift;75000;27;Full-time employee;Unlimited contract;English;large
+7.12.2020 22:47;32;Male;QA Engineer;12;Senior;;95000;25;Full-time employee;Unlimited contract;Russian;extra-large
+7.12.2020 22:48;25;Male;Frontend Developer;7;Senior;JS;70000;28;Full-time employee;Unlimited contract;English;large
+7.12.2020 22:54;34;Male;Software Engineer;10;Senior;C++;74000;30;Full-time employee;Unlimited contract;English;extra-large
+7.12.2020 22:56;29;Male;Data Scientist;5;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;large
+7.12.2020 22:56;29;Male;Data Scientist;5;Middle;Python;65000;30;Full-time employee;Unlimited contract;English;large
+7.12.2020 23:01;30;Male;DevOps;10;Lead;;85000;28;Full-time employee;Unlimited contract;English;extra-large
+8.12.2020 01:00;24;Male;DevOps;3;Junior;Go;77000;30;Full-time employee;Unlimited contract;English;extra-large
+8.12.2020 01:09;35;Male;Software Engineer;10;Senior;Java;60000;30;Full-time employee;Unlimited contract;English;large
+8.12.2020 01:45;31;Male;DevOps;6;Middle;NodsJs;60000;30;Full-time employee;Unlimited contract;English;medium-size
+8.12.2020 08:17;27;Male;Software Engineer;2;Junior;Java;68000;28;Full-time employee;Unlimited contract;English;large
+8.12.2020 09:39;38;Male;Full-Stack Developer;1;Junior;Javascript/Typescript;45500;28;Full-time employee;Unlimited contract;English;medium-size
+8.12.2020 09:39;34;Male;DevOps;12;Middle;Java;72000;28;Full-time employee;Unlimited contract;English;large
+8.12.2020 10:53;35;Male;Data Scientist;4;Senior;python;67000;30;Full-time employee;Unlimited contract;English;medium-size
+8.12.2020 11:49;35;Male;DevOps;17;Senior;Linux;85000;30;Full-time employee;Unlimited contract;English;extra-large
+8.12.2020 13:30;36;Male;Backend Developer;10;Senior;Java;75000;30;Full-time employee;Unlimited contract;English;large
+8.12.2020 20:04;29;Male;DevOps;7;Senior;Kuberenetes, Openstack;82000;28;Full-time employee;Unlimited contract;English;large
+8.12.2020 20:38;35;Male;Software Engineer;15;Senior;Java;85000;30;Full-time employee;Unlimited contract;English;large
+8.12.2020 21:41;31;Female;Product Manager;4;Middle;;60000;28;Full-time employee;Unlimited contract;English;large
+8.12.2020 21:57;25;Female;Frontend Developer;4;Middle;JavaScript/Typescript;45000;28;Full-time employee;Unlimited contract;English;large
+8.12.2020 23:46;34;Male;CTO;14;Lead;C#;84000;21;Full-time employee;Unlimited contract;English;small
+9.12.2020 04:46;42;Male;Data Scientist;2;Senior;Python ;80000;30;Full-time employee;Unlimited contract;German;extra-large
+9.12.2020 10:09;37;Female;QA Manager;7;Middle;java;46000;30;Full-time employee;Unlimited contract;German;large
+9.12.2020 10:32;32;Male;Mobile Developer;8;Senior;Swift;75000;26;Full-time employee;Unlimited contract;English;extra-large
+9.12.2020 13:37;26;Female;Mobile Developer;8;Middle;c++;40000;36;Self-employed (freelancer);Temporary contract;German;large
+10.12.2020 08:37;43;Male;Product Manager;18;Lead;.NET;115000;25;Full-time employee;Unlimited contract;English;extra-large
+10.12.2020 14:44;41;Male;Software Engineer;15;Senior;Kotlin;99000;39;Full-time employee;Unlimited contract;German;extra-large
+11.12.2020 08:39;33;Male;Backend Developer;8;Lead;NodeJS;90000;25;Full-time employee;Unlimited contract;English;large
+11.12.2020 09:20;44;Male;QA Lead;15;Lead;JS, Java;72000;30;Full-time employee;Unlimited contract;English;small
+11.12.2020 16:25;28;Male;ML Engineer;5;Middle;Python, Pytorch;54000;27;Full-time employee;Unlimited contract;English;micro
+11.12.2020 22:00;34;Female;Designer (UI/UX);10;Senior;PS, Sketch, React, CSS3;45000;30;Full-time employee;Unlimited contract;German;micro
+12.12.2020 14:51;28;Male;Robotics Engineer;3;Middle;C++;45000;25;Full-time employee;Unlimited contract;English;micro
+12.12.2020 20:55;39;Male;Software Engineer;15;Lead;Java;75000;24;Full-time employee;Unlimited contract;English;medium-size
+13.12.2020 08:25;32;Male;Data Scientist;6;Senior;Python;92000;25;Full-time employee;Unlimited contract;English;micro
+13.12.2020 11:59;36;Male;DevOps;15;Lead;;90000;30;Full-time employee;Unlimited contract;English;large
+13.12.2020 15:03;27;Female;Backend Developer;3;Middle;Java;17500;22;Full-time employee;Unlimited contract;English;extra-large
+13.12.2020 15:20;32;Female;Software Engineer;2;Middle;Javascript;63000;27;Full-time employee;Unlimited contract;English;large
+13.12.2020 18:25;25;Female;Software Engineer;4;Middle;Scala, Apache Spark;65000;28;Full-time employee;Unlimited contract;English;large
+13.12.2020 21:23;37;Female;Data Scientist;7;Head;Python;75000;28;Full-time employee;Unlimited contract;English;small
+14.12.2020 08:55;56;Male;Software Engineer;30;Lead;c++;110000;25;Full-time employee;Unlimited contract;English;medium-size
+14.12.2020 15:25;27;Male;QA Engineer;6;Middle;Python;70000;30;Full-time employee;Unlimited contract;English;extra-large
+14.12.2020 16:39;29;Male;Software Engineer;6;Senior;Python;70000;27;Full-time employee;Unlimited contract;English;extra-large
+16.12.2020 17:04;28;Male;Frontend Developer;7;Middle;React.js / TypeScript;62000;26;Full-time employee;Unlimited contract;English;large
+17.12.2020 10:28;40;Male;Data Engineer;14;Middle;BI, DWH, ETL/ELT;57000;24;Full-time employee;Unlimited contract;English;large
+17.12.2020 19:16;32;Male;Backend Developer;9;Senior;Scala;90000;34;Full-time employee;Unlimited contract;English;large
+18.12.2020 07:55;35;Female;Product Manager;5;Senior;;60000;28;Full-time employee;Unlimited contract;English;large
+18.12.2020 10:17;32;Male;Software Engineer;11;Senior;Scala;72500;27;Full-time employee;Unlimited contract;English;extra-large
+18.12.2020 10:32;30;Male;Backend Developer;9;Senior;Scala;75000;27;Full-time employee;Unlimited contract;English;extra-large
+18.12.2020 11:29;30;Male;Backend Developer;9;Senior;Scala;85000;24;Full-time employee;Unlimited contract;English;extra-large
+18.12.2020 12:23;36;Male;Mobile Developer;16;Lead;Java;62500;32;Full-time employee;Unlimited contract;English;medium-size
+18.12.2020 13:14;33;Male;Software Engineer;7;Senior;C++;65900;30;Full-time employee;Unlimited contract;English;extra-large
+18.12.2020 15:38;33;Male;Engineering Manager;15;Lead;Java;85000;28;Full-time employee;Unlimited contract;English;extra-large
+18.12.2020 18:43;32;Male;Software Engineer;13;Middle;Java;95000;30;Full-time employee;Unlimited contract;English;extra-large
+19.12.2020 09:54;34;Male;Backend Developer;12;Senior;Kotlin;75000;27;Full-time employee;Unlimited contract;English;extra-large
+20.12.2020 01:48;54;Male;Software Engineer;25;Middle;Python;75000;29;Full-time employee;Unlimited contract;English;extra-large
+21.12.2020 13:45;28;Female;Frontend Developer;5;Senior;javascript;64000;28;Full-time employee;Unlimited contract;English;extra-large
+21.12.2020 14:52;29;Female;Project Manager;6;Middle;Web;51000;28;Full-time employee;Unlimited contract;English;large
+21.12.2020 23:41;38;Male;Data Scientist;6;Lead;Python;110000;28;Full-time employee;Unlimited contract;English;extra-large
+22.12.2020 11:55;33;Male;Software Engineer;11;Senior;Scala;107000;24;Full-time employee;Unlimited contract;English;extra-large
+22.12.2020 13:39;36;Male;Backend Developer;12;Senior;Python;100000;30;Full-time employee;Unlimited contract;English;extra-large
+22.12.2020 16:31;36;Male;Software Engineer;15;Senior;PHP;70000;26;Full-time employee;Unlimited contract;English;large
+22.12.2020 17:11;37;Male;QA Engineer;15;Senior;Python;70000;28;Full-time employee;Unlimited contract;English;large
+22.12.2020 18:16;36;Male;Software Engineer;15;Senior;PL/SQL;68000;30;Full-time employee;Unlimited contract;English;extra-large
+22.12.2020 19:44;33;Male;Frontend Developer;10;Senior;Javascript;100000;30;Full-time employee;Unlimited contract;English;large
+22.12.2020 23:41;33;Male;Team Lead;12;Lead;PHP;70200;30;Full-time employee;Unlimited contract;German;large
+23.12.2020 17:33;31;Male;Backend Developer;7;Senior;Go;75000;28;Full-time employee;Unlimited contract;English;large
+24.12.2020 10:37;36;Male;Mobile Developer;14;Senior;Swift;75000;20;Full-time employee;Unlimited contract;English;small
+24.12.2020 14:31;31;Male;Software Engineer;9;Senior;scala;85000;28;Full-time employee;Unlimited contract;English;small
+24.12.2020 15:12;36;Male;Software Engineer;10;Middle;C#;66000;30;Full-time employee;Unlimited contract;German;medium-size
+24.12.2020 20:39;37;Male;DevOps;17;Senior;AWS;90000;30;Full-time employee;Unlimited contract;English;extra-large
+24.12.2020 23:11;30;Male;Consultant;3;Middle;Java;58000;30;Full-time employee;Unlimited contract;English;large
+25.12.2020 14:37;30;Male;Software Engineer;11;Senior;Java / Scala;90000;29;Full-time employee;Unlimited contract;English;extra-large
+25.12.2020 17:03;27;Male;QA Engineer;5;Senior;java;35000;28;Full-time employee;Temporary contract;English;large
+25.12.2020 21:58;33;Female;Software Engineer;10;Senior;Java;47500;25;Full-time employee;Unlimited contract;English;small
+26.12.2020 20:00;35;Male;Backend Developer;10;Lead;Magento;65000;25;Full-time employee;Unlimited contract;English;small
+27.12.2020 11:52;26;Male;Backend Developer;5;Middle;Java;72000;30;Full-time employee;Unlimited contract;English;extra-large
+27.12.2020 18:49;29;Male;Software Engineer;9;Senior;C++;73000;30;Full-time employee;Unlimited contract;English;extra-large
+28.12.2020 11:20;31;Male;Backend Developer;4;Middle;Ruby on Rails;50000;25;Full-time employee;Unlimited contract;English;small
+28.12.2020 12:00;36;Male;Lead Developer;8;Lead;.net;72000;28;Full-time employee;Unlimited contract;German;large
+29.12.2020 18:33;36;Male;Mobile Developer;10;Middle;Android;68000;30;Full-time employee;Unlimited contract;English;extra-large
+29.12.2020 23:57;29;Male;Data Scientist;6;Middle;SQL;70000;28;Full-time employee;Unlimited contract;English;extra-large
+30.12.2020 02:23;30;Female;Frontend Developer;3;Lead;JavaScript ;57600;30;Full-time employee;Unlimited contract;English;large
+30.12.2020 13:18;30;Male;Software Engineer;8;Senior;PHP;68000;26;Full-time employee;Unlimited contract;English;medium-size
+30.12.2020 16:32;29;Male;Backend Developer;5;Senior;Go;75000;25;Full-time employee;Unlimited contract;English;large
+31.12.2020 17:56;34;Male;Software Engineer;14;Lead;Java;95000;30;Full-time employee;Unlimited contract;English;extra-large
+1.01.2021 10:51;30;Male;Backend Developer;10;Lead;Java;82000;29;Full-time employee;Unlimited contract;English;large
+1.01.2021 13:40;34;Male;Backend Developer;14;Lead;C#;90000;30;Full-time employee;Unlimited contract;English;extra-large
+2.01.2021 23:17;27;Male;Software Engineer;8;Senior;C++, C#;52000;28;Full-time employee;Unlimited contract;English;small
+3.01.2021 02:44;26;Male;Mobile Developer;5;Middle;Kotlin;65000;24;Full-time employee;Unlimited contract;Russian;medium-size
+4.01.2021 16:41;35;Male;Software Engineer;12;Lead;python;100000;30;Full-time employee;Unlimited contract;English;medium-size
+5.01.2021 22:12;44;Male;Software Architekt;20;Head;Java Backend;95000;30;Full-time employee;Unlimited contract;German;large
+5.01.2021 23:51;31;Male;Backend Developer;10;Senior;Ruby on Rails;85000;27;Full-time employee;Unlimited contract;English;large
+6.01.2021 21:20;24;Male;Frontend Developer;5;Senior;TypeScript;68250;27;Full-time employee;Unlimited contract;English;large
+6.01.2021 21:36;27;Male;Software Engineer;7;Middle;.NET;63000;30;Full-time employee;Unlimited contract;English;medium-size
+7.01.2021 10:47;28;Male;Software Engineer;7;Middle;Java;63000;30;Full-time employee;Unlimited contract;English;large
+7.01.2021 14:37;25;Male;ML Engineer;5;Middle;Scala;65000;30;Full-time employee;Unlimited contract;English;extra-large
+8.01.2021 00:38;35;Male;Software Engineer;12;Senior;.Net, Angular;75000;28;Full-time employee;Unlimited contract;English;extra-large
+8.01.2021 17:23;33;Female;Testmanager;10;Junior;Java;60000;30;Full-time employee;Unlimited contract;German;extra-large
+10.01.2021 22:31;26;Male;Project Manager;5;Middle;Python;20000;24;Full-time employee;Unlimited contract;Russian;extra-large
+10.01.2021 22:32;26;Male;Project Manager;5;Middle;Python;20000;24;Full-time employee;Unlimited contract;Russian;extra-large
+11.01.2021 12:12;39;Male;QA Engineer;7;Senior;Java;76000;30;Full-time employee;Unlimited contract;English;extra-large
+12.01.2021 12:48;37;Male;Mobile Developer;15;Senior;Android;84700;29;Full-time employee;Unlimited contract;English;large
+12.01.2021 22:22;27;Male;Software Engineer;3;Middle;Qlik;52000;27;Full-time employee;Unlimited contract;German;small
+13.01.2021 23:42;38;Male;Data Analyst;16;Senior;;95000;30;Full-time employee;Unlimited contract;English;extra-large
+16.01.2021 14:39;32;Male;ERP Consultant;10;Lead;SAP;130000;30;Full-time employee;Unlimited contract;English;extra-large
+16.01.2021 22:23;32;Male;Software Engineer;10;Head;Scala;95000;24;Full-time employee;Unlimited contract;English;small
+17.01.2021 13:22;28;Male;Frontend Developer;5;Middle;JavaScript;55000;30;Full-time employee;Unlimited contract;English;large
+18.01.2021 09:51;38;Male;Head of Engineering;18;Head;;90000;26;Full-time employee;Unlimited contract;German;medium-size
+18.01.2021 11:50;34;Male;Software Engineer;7;Senior;PHP;108500;25;Full-time employee;Unlimited contract;English;small
+18.01.2021 15:05;31;Male;Backend Developer;9;Senior;Java;70000;26;Full-time employee;Unlimited contract;English;medium-size
+18.01.2021 23:20;39;Male;IT Operations Manager;15;Lead;PHP;110000;28;Full-time employee;Unlimited contract;English;large
+19.01.2021 10:17;26;Male;Frontend Developer;7;Middle;JavaScript;38350;27;Full-time employee;Unlimited contract;German;large
+19.01.2021 12:01;26;Male;DevOps;2;Middle;yaml;65000;30;Full-time employee;Unlimited contract;English;medium-size
